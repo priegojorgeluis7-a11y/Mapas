@@ -165,8 +165,8 @@ body {
 .map-tools {
   position: absolute;
   right: 16px;
-  top: 50%;
-  transform: translateY(-50%);
+  top: 16px;
+  transform: none;
   z-index: 1150;
   display: flex;
   flex-direction: column;
@@ -174,6 +174,7 @@ body {
 }
 
 .tool-btn {
+  position: relative;
   width: 58px;
   height: 58px;
   border-radius: 50%;
@@ -192,6 +193,27 @@ body {
   transform: scale(1.04);
   border-color: #becac6;
   background: #ffffff;
+}
+
+.tool-btn::after {
+  content: attr(data-tip);
+  position: absolute;
+  right: calc(100% + 8px);
+  top: 50%;
+  transform: translateY(-50%);
+  white-space: nowrap;
+  background: rgba(32, 41, 39, 0.92);
+  color: #ffffff;
+  font-size: 0.74rem;
+  padding: 6px 8px;
+  border-radius: 8px;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 140ms ease;
+}
+
+.tool-btn:hover::after {
+  opacity: 1;
 }
 
 .tool-btn.is-active {
@@ -532,8 +554,7 @@ body {
 
   .map-tools {
     right: 10px;
-    top: auto;
-    bottom: 16px;
+    top: 70px;
     transform: none;
     gap: 8px;
   }

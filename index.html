@@ -105,23 +105,25 @@
     <main id="map"></main>
 
     <div class="map-tools" aria-label="Herramientas del mapa">
-      <button type="button" id="baseToggle" class="tool-btn" title="Cambiar mapa satelital" aria-label="Cambiar mapa satelital">
+      <button
+        type="button"
+        id="baseToggle"
+        class="tool-btn"
+        title="Cambiar entre mapa claro y satelital"
+        aria-label="Cambiar entre mapa claro y satelital"
+        data-tip="Cambiar mapa base"
+      >
         <span class="tool-icon">🛰</span>
       </button>
 
-      <button type="button" id="rotateLeft" class="tool-btn" title="Girar -15" aria-label="Girar -15 grados">
-        <span class="tool-icon">↺</span>
-      </button>
-
-      <button type="button" id="rotateRight" class="tool-btn" title="Girar +15" aria-label="Girar +15 grados">
-        <span class="tool-icon">↻</span>
-      </button>
-
-      <button type="button" id="resetDefault" class="tool-btn" title="Volver a vista default" aria-label="Volver a vista default">
-        <span class="tool-icon">◎</span>
-      </button>
-
-      <button type="button" id="resetNorth" class="tool-btn compass-btn" title="Regresar al norte" aria-label="Regresar al norte">
+      <button
+        type="button"
+        id="resetNorth"
+        class="tool-btn compass-btn"
+        title="Regresar orientacion al norte"
+        aria-label="Regresar orientacion al norte"
+        data-tip="Regresar al norte"
+      >
         <span class="compass-mini" aria-hidden="true">
           <span class="compass-mini-ring"></span>
           <span class="compass-mini-needle" id="compassNeedle"></span>

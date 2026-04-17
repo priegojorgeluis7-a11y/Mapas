@@ -343,20 +343,8 @@ function wireMapControls() {
     setBaseMap(next);
   });
 
-  document.getElementById("rotateLeft").addEventListener("click", () => {
-    rotateBy(-15);
-  });
-
-  document.getElementById("rotateRight").addEventListener("click", () => {
-    rotateBy(15);
-  });
-
   document.getElementById("resetNorth").addEventListener("click", () => {
     setBearing(0);
-  });
-
-  document.getElementById("resetDefault").addEventListener("click", () => {
-    resetToDefault();
   });
 
   updateCompass();
