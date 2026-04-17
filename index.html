@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Mapa Interactivo - Estaciones y Edificios</title>
+
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+      integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+      crossorigin=""
+    />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <aside class="sidebar" id="sidebar">
+      <div class="sidebar-topbar">
+        <h1>TREN MEXICO-QUERETARO</h1>
+      </div>
+
+      <div class="sidebar-section">
+        <p class="section-title">Busqueda rapida</p>
+        <div class="search-wrap">
+          <input type="search" id="featureSearch" placeholder="Buscar estacion o predio" autocomplete="off" />
+          <button id="clearSearch" type="button" aria-label="Limpiar busqueda">Limpiar</button>
+        </div>
+        <ul id="searchResults" class="search-results"></ul>
+      </div>
+
+      <div class="sidebar-header">
+        <p>Capas del proyecto</p>
+      </div>
+
+      <div class="bulk-actions">
+        <button type="button" id="toggleAllOn">Activar todo</button>
+        <button type="button" id="toggleAllOff">Desactivar todo</button>
+      </div>
+
+      <div class="layer-groups" id="layerList">
+        <details open>
+          <summary>Capas geograficas</summary>
+          <div class="layer-list">
+            <label class="layer-item">
+              <span class="left">
+                <span class="dot dot-line"></span>
+                <span>Trazo principal</span>
+              </span>
+              <span class="switch">
+                <input type="checkbox" id="toggleLine" checked />
+                <span class="slider" aria-hidden="true"></span>
+              </span>
+            </label>
+
+            <label class="layer-item">
+              <span class="left">
+                <span class="dot dot-point"></span>
+                <span>Estaciones y edificios</span>
+              </span>
+              <span class="switch">
+                <input type="checkbox" id="togglePoints" checked />
+                <span class="slider" aria-hidden="true"></span>
+              </span>
+            </label>
+
+            <label class="layer-item">
+              <span class="left">
+                <span class="dot dot-polygon"></span>
+                <span>Predios y superficies</span>
+              </span>
+              <span class="switch">
+                <input type="checkbox" id="togglePolygons" checked />
+                <span class="slider" aria-hidden="true"></span>
+              </span>
+            </label>
+          </div>
+        </details>
+      </div>
+
+      <div class="legend" id="legend">
+        <p class="section-title">Leyenda dinamica</p>
+        <ul id="legendItems">
+          <li data-layer="line"><span class="legend-chip line"></span>Trazo principal</li>
+          <li data-layer="point"><span class="legend-chip point"></span>Estaciones y edificios</li>
+          <li data-layer="polygon"><span class="legend-chip polygon"></span>Predios y superficies</li>
+        </ul>
+      </div>
+
+      <div class="stats" id="stats">
+        <p><strong>Resumen</strong></p>
+        <p id="lineCount">Lineas: 0</p>
+        <p id="pointCount">Puntos: 0</p>
+        <p id="polygonCount">Poligonos: 0</p>
+      </div>
+
+      <div class="publish-hint">
+        <p>Listo para GitHub Pages con archivos estaticos.</p>
+      </div>
+    </aside>
+
+    <button class="mobile-toggle" id="mobileToggle" aria-label="Mostrar u ocultar panel">
+      Capas
+    </button>
+
+    <main id="map"></main>
+
+    <script
+      src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+      integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+      crossorigin=""
+    ></script>
+    <script src="https://unpkg.com/leaflet-omnivore@0.3.4/leaflet-omnivore.min.js"></script>
+    <script src="./app.js"></script>
+  </body>
+</html>

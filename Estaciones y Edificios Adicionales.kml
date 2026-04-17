@@ -1,0 +1,3407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="1HMSnZ-2yQMKb3JKqw5Q9L-gKXdkp2OTe">
+	<name>Estaciones y Edificios Adicionales</name>
+	<gx:CascadingStyle kml:id="__managed_style_B0595F37883ECE12EEC8">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff000000</color>
+				<width>4.8</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_AD67D025543ECE12EEC8">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff000000</color>
+				<width>3.2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_703DE555713ECE12EEC8">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ffff00ff</color>
+				<width>3.2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>b0ff00ff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_04A17774003ECE12EEC7">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1C49B571CD3ECE12EEC7</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_289F89264B3ECE12EEC7</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_5E51B7A0223ECE12EEC8">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff0000ff</color>
+				<width>4.8</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>b00000ff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_28EC1AF4D63ECE12EEC8">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff545454</color>
+				<width>4.8</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1F06BBBB3C3ECE12EEC8">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff545454</color>
+				<width>3.2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_60597B6C323ECE12EEC8">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_703DE555713ECE12EEC8</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_89BAD05BAD3ECE12EEC8</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_465312CAE03ECE12EEC8">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff0000ff</color>
+				<width>3.2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>b00000ff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_289F89264B3ECE12EEC7">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff7f9fff</color>
+				<width>4.8</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1C49B571CD3ECE12EEC7">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff7f9fff</color>
+				<width>3.2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_09CA75C4C13ECE12EEC8">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1F06BBBB3C3ECE12EEC8</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_28EC1AF4D63ECE12EEC8</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_89BAD05BAD3ECE12EEC8">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ffff00ff</color>
+				<width>4.8</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>b0ff00ff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_0BDE3CF98A3ECE12EEC4">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4.8</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0276B598613ECE12EEC6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_17ACA549553ECE12EEC6</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2CB96C39D23ECE12EEC6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_4B34BF126E3ECE12EEC6">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<width>3.2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_3852CEAEAB3ECE12EEC6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_4B34BF126E3ECE12EEC6</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_5E93A1C7B93ECE12EEC6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_17ACA549553ECE12EEC6">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ffff0000</color>
+				<width>3.2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_34A95E72D43ECE12EEC4">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ffff0000</color>
+				<width>4.8</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>b0ff0000</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_288F472BAA3ECE12EEC4">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ffff0000</color>
+				<width>3.2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>b0ff0000</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_5E93A1C7B93ECE12EEC6">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<width>4.8</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_153A20C5483ECE12EEC4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_288F472BAA3ECE12EEC4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_34A95E72D43ECE12EEC4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_1B0A17542F3ECE12EEC3">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3.2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_3F280646A03ECE12EEC8">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_465312CAE03ECE12EEC8</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_5E51B7A0223ECE12EEC8</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="__managed_style_9820309E343ECE12EEC8">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_AD67D025543ECE12EEC8</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_B0595F37883ECE12EEC8</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_2CB96C39D23ECE12EEC6">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ffff0000</color>
+				<width>4.8</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0E6035FA363ECE12EEC3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1B0A17542F3ECE12EEC3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_0BDE3CF98A3ECE12EEC4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder id="02F615E2DF3DE67C5E38">
+		<name>Estaciones y Edificios Adicionales TMQ</name>
+		<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+		<Folder id="5AA566B7DB000001">
+			<name>BM Marques</name>
+			<open>1</open>
+			<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+			<Folder id="5AA566B7DB000002">
+				<name>BM Marques</name>
+				<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+				<Placemark id="5AA566B7DB000003">
+					<name>kml_1</name>
+					<styleUrl>#__managed_style_153A20C5483ECE12EEC4</styleUrl>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-100.264638327794,20.6305546708814,0 -100.2647530942,20.6295394691784,0 -100.269357371431,20.6298843736968,0 -100.269835782114,20.6298659871653,0 -100.269883306982,20.6293941228305,0 -100.270885437108,20.6293675930952,0 -100.264719334496,20.6279372965351,0 -100.264423468958,20.6305544542824,0 -100.264638327794,20.6305546708814,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark id="5AA566B7DB000004">
+					<name>kml_2</name>
+					<styleUrl>#__managed_style_0276B598613ECE12EEC6</styleUrl>
+					<Point>
+						<coordinates>-100.266787636791,20.6296304041831,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+		</Folder>
+		<Folder id="5AA565E919000001">
+			<name>EL MARQUES</name>
+			<open>1</open>
+			<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+			<Folder id="5AA565E919000002">
+				<name>EL MARQUES</name>
+				<open>1</open>
+				<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+				<Placemark id="5AA565E919000003">
+					<name>kml_1</name>
+					<styleUrl>#__managed_style_153A20C5483ECE12EEC4</styleUrl>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-100.253261762221,20.6253744469286,0 -100.253225018717,20.6255974474518,0 -100.253162602283,20.6260368814742,0 -100.255621353707,20.626697373115,0 -100.258662684609,20.6274150377919,0 -100.258668674131,20.627416492063,0 -100.258674607422,20.6274181379908,0 -100.258680477565,20.6274199736563,0 -100.258686277716,20.6274219969193,0 -100.258692001113,20.627424205421,0 -100.258697641082,20.6274265965863,0 -100.258703191049,20.6274291676275,0 -100.258708644541,20.627431915547,0 -100.258713995202,20.627434837141,0 -100.258719236793,20.6274379290032,0 -100.258724363202,20.6274411875288,0 -100.258729368452,20.6274446089187,0 -100.258734246709,20.6274481891838,0 -100.258738992285,20.6274519241501,0 -100.258743599646,20.6274558094628,0 -100.258748063421,20.6274598405921,0 -100.258752378405,20.6274640128381,0 -100.258756539568,20.6274683213364,0 -100.258760542059,20.6274727610637,0 -100.25876438121,20.6274773268438,0 -100.258768052546,20.6274820133533,0 -100.258771551786,20.6274868151283,0 -100.258774874851,20.6274917265705,0 -100.258778017865,20.6274967419534,0 -100.258780977166,20.6275018554298,0 -100.258783749301,20.6275070610378,0 -100.25878633104,20.6275123527082,0 -100.258788719372,20.6275177242714,0 -100.258790911513,20.6275231694648,0 -100.258792904906,20.6275286819397,0 -100.258794697228,20.6275342552692,0 -100.25879628639,20.6275398829553,0 -100.258797670537,20.6275455584368,0 -100.258798848057,20.6275512750964,0 -100.258799817576,20.6275570262693,0 -100.258800577964,20.6275628052501,0 -100.258801128335,20.627568605301,0 -100.258801468047,20.6275744196598,0 -100.258801596703,20.6275802415475,0 -100.258702026426,20.6304045584275,0 -100.260295066729,20.630435698787,0 -100.260308956943,20.630019921677,0 -100.259025119011,20.6300078677812,0 -100.259060368684,20.6274977467297,0 -100.259657348164,20.6269606907894,0 -100.253261762221,20.6253744469286,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+			</Folder>
+			<Folder id="04DD7609BC3DC7C4E33C">
+				<name>Estaciones y Edificios Adicionales TMQ</name>
+				<open>1</open>
+				<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+			</Folder>
+		</Folder>
+		<Folder id="5AA56511D8000001">
+			<name>ZI Polotitlan</name>
+			<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+			<Folder id="5AA56511D9000002">
+				<name>ZI Polotitlan</name>
+				<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+				<Placemark id="5AA56511D9000003">
+					<name>kml_1</name>
+					<styleUrl>#__managed_style_153A20C5483ECE12EEC4</styleUrl>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-99.8060058158144,20.2338181531609,0 -99.80914430219811,20.2346509510418,0 -99.81287741134778,20.2364579360157,0 -99.81580311216001,20.2372340448439,0 -99.81658157522119,20.2366103756807,0 -99.8185564189999,20.2370507931173,0 -99.81886797138742,20.2367682607843,0 -99.80605367889081,20.2336199336882,0 -99.8060058158144,20.2338181531609,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+			</Folder>
+		</Folder>
+		<Folder id="5AA55FE16A000001">
+			<name>Huehuetoca</name>
+			<open>1</open>
+			<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+			<Folder id="5AA55FE16A000002">
+				<name>Huehuetoca</name>
+				<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+				<Placemark id="5AA55FE16B000003">
+					<name>\A1;PREDIO  DE ESTACIÓN HUEHUETOCA
+SUPERFICIE= {\A0;\C0;53,179.364 } m{\H0.7x;\S2^;}</name>
+					<styleUrl>#__managed_style_3852CEAEAB3ECE12EEC6</styleUrl>
+					<Point>
+						<coordinates>-99.1973885866155,19.8201824982728,2254.8</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="5AA55FE16B000004">
+					<name>kml_2</name>
+					<styleUrl>#__managed_style_153A20C5483ECE12EEC4</styleUrl>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-99.1981714982922,19.821363384771,0 -99.1980197710959,19.8208266199124,0 -99.19789747847329,19.8203938149913,0 -99.19747644258661,19.8189037109387,0 -99.19718793165579,19.8181782366082,0 -99.19636075524681,19.8185705638513,0 -99.19590765652798,19.8187854008426,0 -99.19606830872938,19.8193332138883,0 -99.1964962451823,19.8209091541346,0 -99.19667584575922,19.8215702206085,0 -99.1981714982922,19.821363384771,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+			</Folder>
+		</Folder>
+		<Folder id="5AA572CB20000001">
+			<name>San Juan del Rio</name>
+			<open>1</open>
+			<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+			<Placemark id="5B81D2F037000003">
+				<name>kml_1</name>
+				<styleUrl>#__managed_style_153A20C5483ECE12EEC4</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-99.97847218561678,20.3685512527137,0 -99.9784868414077,20.3685336468478,0 -99.9784211539134,20.3684954981903,0 -99.9784031095889,20.3685171746566,0 -99.97816315087891,20.3683987927798,0 -99.97814940772159,20.3683925124177,0 -99.97813544006171,20.3683866891485,0 -99.97812126498781,20.3683813300965,0 -99.9781068998425,20.3683764418183,0 -99.97809236220108,20.3683720302946,0 -99.9780776698496,20.3683681009227,0 -99.9780628407634,20.3683646585099,0 -99.9780478930854,20.368361707268,0 -99.9780328451032,20.3683592508075,0 -99.97801771522748,20.368357292134,0 -99.97800252196889,20.3683558336437,0 -99.9779872839157,20.3683548771211,0 -99.97797201971099,20.3683544237364,0 -99.9779567480298,20.3683544740443,0 -99.97794148755639,20.3683550279834,0 -99.9779262569611,20.3683560848757,0 -99.97791107487799,20.3683576434284,0 -99.97789595988169,20.3683597017347,0 -99.97788093046471,20.3683622572761,0 -99.97786600501472,20.3683653069263,0 -99.9778512017925,20.368368846954,0 -99.977836538909,20.3683728730282,0 -99.9778220343037,20.3683773802233,0 -99.9778077057224,20.3683823630248,0 -99.9777935706954,20.3683878153366,0 -99.9777803063252,20.3683934529616,0 -99.97776724949409,20.368399506125,0 -99.97775441483529,20.3684059680428,0 -99.9777418167329,20.3684128314729,0 -99.977729469306,20.3684200887233,0 -99.9777173863928,20.3684277316606,0 -99.97770558153502,20.3684357517192,0 -99.9776940679627,20.3684441399108,0 -99.9776828585794,20.3684528868344,0 -99.97767196594791,20.3684619826872,0 -99.977661402276,20.3684714172752,0 -99.9776511794028,20.3684811800247,0 -99.97764130878529,20.3684912599944,0 -99.977631801486,20.3685016458873,0 -99.97762266815988,20.3685123260637,0 -99.9749861248487,20.3715853220327,0 -99.97497555848821,20.3715967332718,0 -99.9749645761764,20.3716077897524,0 -99.97495319129841,20.371618477999,0 -99.97494141772951,20.3716287849852,0 -99.97492926981911,20.3716386981489,0 -99.97491676237262,20.3716482054083,0 -99.9749039106338,20.3716572951761,0 -99.9748907302659,20.371665956374,0 -99.9748772373329,20.3716741784459,0 -99.97486344827951,20.371681951371,0 -99.9748493799115,20.3716892656756,0 -99.9748350493751,20.3716961124455,0 -99.97482047413591,20.3717024833358,0 -99.9748056719578,20.3717083705818,0 -99.9747906608815,20.3717137670084,0 -99.97477545920188,20.3717186660385,0 -99.97476008544669,20.3717230617012,0 -99.97474455835288,20.3717269486391,0 -99.9747288968446,20.3717303221151,0 -99.9747131200098,20.3717331780175,0 -99.9746972470767,20.3717355128657,0 -99.9746812973912,20.3717373238139,0 -99.9746652903922,20.371738608655,0 -99.97464924558868,20.3717393658231,0 -99.9746331825358,20.3717395943954,0 -99.97461712081081,20.3717392940932,0 -99.9746010799894,20.3717384652826,0 -99.9745850796217,20.3717371089737,0 -99.9745691392088,20.3717352268195,0 -99.97455327817831,20.3717328211139,0 -99.9745375158614,20.371729894789,0 -99.9745218714688,20.3717264514113,0 -99.97341670264009,20.3710827809191,0 -99.9732797834711,20.3711980149692,0 -99.9732779224255,20.3711997742543,0 -99.9732761270873,20.3712015932465,0 -99.97327439960961,20.3712034697646,0 -99.9732727420635,20.3712054015586,0 -99.9732711564366,20.371207386312,0 -99.97326964463019,20.3712094216452,0 -99.97326820845709,20.3712115051174,0 -99.97326684963929,20.3712136342305,0 -99.97326556980619,20.3712158064316,0 -99.9732643704924,20.371218019116,0 -99.9732632531359,20.3712202696305,0 -99.9732622190765,20.3712225552767,0 -99.9732612695542,20.3712248733138,0 -99.97326040570751,20.3712272209623,0 -99.97325962857219,20.3712295954074,0 -99.97325893908021,20.3712319938018,0 -99.97325833805819,20.3712344132696,0 -99.9732578262269,20.3712368509099,0 -99.9732574042001,20.3712393037996,0 -99.9732570724837,20.3712417689976,0 -99.9732568314755,20.3712442435479,0 -99.97325668146451,20.3712467244833,0 -99.97325662263069,20.3712492088291,0 -99.97325665504441,20.3712516936064,0 -99.97325677866699,20.3712541758356,0 -99.97325699335011,20.3712566525405,0 -99.9732572988363,20.3712591207512,0 -99.9732576947594,20.3712615775083,0 -99.97325818064461,20.3712640198658,0 -99.97530157500481,20.3724912391495,0 -99.9753112299595,20.372481130229,0 -99.97523086898718,20.3724135153433,0 -99.975306989831,20.3723368305453,0 -99.97538087718441,20.3722582271732,0 -99.97545247669372,20.372177763054,0 -99.97552173568832,20.3720954973833,0 -99.97847218561678,20.3685512527137,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+		</Folder>
+		<Folder id="5AA56F433B000001">
+			<name>Queretaro</name>
+			<open>1</open>
+			<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+			<Folder id="5AA56F433B000002">
+				<name>Queretaro</name>
+				<open>1</open>
+				<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+				<Placemark id="5AA56F433B000003">
+					<name>kml_1</name>
+					<styleUrl>#__managed_style_153A20C5483ECE12EEC4</styleUrl>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-100.405033059415,20.6001950107013,0 -100.405026389683,20.60019851362,0 -100.405019595618,20.6002017978698,0 -100.405012685303,20.6002048595432,0 -100.405005666958,20.6002076949977,0 -100.404998548934,20.6002103008597,0 -100.4049913397,20.6002126740291,0 -100.404984047832,20.6002148116824,0 -100.404976682005,20.6002167112763,0 -100.404969250985,20.6002183705507,0 -100.40496176361,20.6002197875317,0 -100.40495422879,20.6002209605334,0 -100.404946655488,20.6002218881601,0 -100.404939052715,20.6002225693083,0 -100.404931429517,20.6002230031676,0 -100.404923794962,20.6002231892218,0 -100.40431321163,20.6002498265077,0 -100.404306759285,20.6003001834346,0 -100.405102520466,20.6003988538436,0 -100.405104776275,20.6003970348179,0 -100.4051070908,20.6003952824081,0 -100.405109461822,20.6003935982937,0 -100.40511188707,20.6003919840885,0 -100.40511436422,20.6003904413394,0 -100.405116890897,20.6003889715247,0 -100.405128048906,20.6003824484947,0 -100.405138964202,20.6003755710135,0 -100.40514962409,20.60036834708,0 -100.405160016173,20.6003607850959,0 -100.405170128364,20.6003528938561,0 -100.405179948903,20.6003446825383,0 -100.405189466368,20.6003361606926,0 -100.40519866969,20.6003273382303,0 -100.405207548165,20.6003182254121,0 -100.405216091466,20.6003088328367,0 -100.405224289659,20.6002991714279,0 -100.405232133209,20.6002892524223,0 -100.405239612992,20.600279087356,0 -100.40524672031,20.6002686880514,0 -100.405253446898,20.6002580666032,0 -100.405259784931,20.6002472353645,0 -100.405265727038,20.6002362069325,0 -100.405271266309,20.6002249941336,0 -100.405276396302,20.6002136100086,0 -100.40528111105,20.6002020677977,0 -100.40528540507,20.6001903809248,0 -100.405285801914,20.6001891937557,0 -100.405286241943,20.600188020159,0 -100.405286724635,20.6001868615269,0 -100.405287249416,20.6001857192339,0 -100.405287815665,20.600184594635,0 -100.405288422709,20.6001834890646,0 -100.405289069829,20.6001824038341,0 -100.405289756256,20.6001813402309,0 -100.405290481176,20.6001802995168,0 -100.40529124373,20.6001792829265,0 -100.405292043013,20.6001782916659,0 -100.405292878077,20.6001773269109,0 -100.40529374793,20.6001763898062,0 -100.405294651541,20.6001754814634,0 -100.405295587838,20.60017460296,0 -100.405296555711,20.6001737553383,0 -100.405297554011,20.6001729396038,0 -100.405298581553,20.6001721567242,0 -100.405299637119,20.6001714076282,0 -100.405300719457,20.6001706932047,0 -100.405301827282,20.6001700143009,0 -100.405302959281,20.6001693717225,0 -100.405304114109,20.6001687662316,0 -100.405305290399,20.6001681985466,0 -100.405306486753,20.6001676693409,0 -100.405307701753,20.6001671792423,0 -100.405308933957,20.6001667288323,0 -100.405310181904,20.6001663186451,0 -100.405311444113,20.6001659491674,0 -100.405312719087,20.6001656208375,0 -100.405314005312,20.6001653340449,0 -100.405315301264,20.6001650891299,0 -100.405316605405,20.6001648863829,0 -100.405317916188,20.6001647260446,0 -100.405319232057,20.600164608305,0 -100.405320551453,20.6001645333039,0 -100.405321872808,20.6001645011303,0 -100.406425964203,20.6001949463365,0 -100.406415367258,20.5999839315973,0 -100.40644918895,20.5998094072972,0 -100.406451401632,20.5997657689726,0 -100.406465527951,20.5994669112486,0 -100.406467815131,20.5994193574714,0 -100.406481475814,20.5991774691895,0 -100.406455738089,20.5991772484558,0 -100.406452851013,20.5991941222726,0 -100.40644934893,20.5992108925418,0 -100.406445235991,20.5992275393963,0 -100.406440517066,20.5992440431148,0 -100.406435197746,20.599260384146,0 -100.406429284332,20.599276543131,0 -100.40642278383,20.5992925009267,0 -100.406415703941,20.5993082386283,0 -100.406408053052,20.5993237375919,0 -100.406399840226,20.599338979456,0 -100.406391075193,20.5993539461642,0 -100.406381768336,20.5993686199857,0 -100.40637193068,20.5993829835368,0 -100.406361573881,20.5993970198013,0 -100.406350710207,20.5994107121508,0 -100.406339352528,20.5994240443643,0 -100.4063275143,20.5994370006474,0 -100.406315209546,20.5994495656511,0 -100.406302452843,20.5994617244899,0 -100.406289259304,20.5994734627595,0 -100.40627564456,20.5994847665539,0 -100.406261624739,20.5994956224816,0 -100.406247216449,20.5995060176819,0 -100.406232436761,20.5995159398398,0 -100.406217303182,20.5995253772006,0 -100.406201833642,20.5995343185842,0 -100.406186046468,20.5995427533979,0 -100.40616996036,20.5995506716491,0 -100.406153594377,20.5995580639572,0 -100.406119057242,20.5995522713968,0 -100.405977833965,20.5995751052218,0 -100.405458920709,20.5995981619556,0 -100.405070430709,20.5995806131445,0 -100.405039596877,20.6001912932811,0 -100.405033059415,20.6001950107013,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark id="5AA56F433C000005">
+					<name>kml_3</name>
+					<styleUrl>#__managed_style_153A20C5483ECE12EEC4</styleUrl>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-100.404946324277,20.6007902099423,0 -100.405224066612,20.6007789794024,0 -100.405235337826,20.6006874301156,0 -100.405229781906,20.6006846319529,0 -100.405224332094,20.6006816545284,0 -100.405218994912,20.6006785014049,0 -100.405213776745,20.6006751763555,0 -100.405208683838,20.600671683359,0 -100.405203722285,20.6006680265951,0 -100.405198898023,20.6006642104395,0 -100.405194216825,20.6006602394586,0 -100.405189684292,20.6006561184041,0 -100.405185305848,20.6006518522073,0 -100.405181086732,20.6006474459731,0 -100.405086823294,20.6005175022862,0 -100.40508500711,20.6005149036817,0 -100.405083287026,20.6005122477386,0 -100.405081665081,20.6005095376061,0 -100.405080143198,20.6005067764982,0 -100.405078723182,20.6005039676889,0 -100.405077406717,20.600501114509,0 -100.405076195364,20.6004982203419,0 -100.40507509056,20.6004952886194,0 -100.405074093613,20.6004923228182,0 -100.405073205708,20.6004893264551,0 -100.405072427896,20.6004863030833,0 -100.405071761101,20.600483256288,0 -100.405071206112,20.600480189682,0 -100.405070763587,20.6004771069019,0 -100.405070434052,20.6004740116032,0 -100.405070217898,20.6004709074565,0 -100.40507011538,20.6004677981426,0 -100.40507012662,20.6004646873487,0 -100.405070251605,20.6004615787637,0 -100.405070490186,20.6004584760737,0 -100.405070842081,20.6004553829579,0 -100.405071306873,20.6004523030843,0 -100.405071884009,20.600449240105,0 -100.405072572807,20.6004461976522,0 -100.405073372448,20.6004431793336,0 -100.405074281986,20.6004401887284,0 -100.40507530034,20.6004372293831,0 -100.405076426304,20.6004343048067,0 -100.405077658543,20.6004314184673,0 -100.405078995595,20.6004285737876,0 -100.405080435874,20.6004257741409,0 -100.405081977674,20.6004230228471,0 -100.405083619164,20.6004203231686,0 -100.4050853584,20.6004176783068,0 -100.405087193319,20.6004150913981,0 -100.405089121744,20.60041256551,0 -100.405091141389,20.6004101036378,0 -100.405093249859,20.6004077087008,0 -100.405095444653,20.600405383539,0 -100.40509772317,20.6004031309096,0 -100.405100082707,20.6004009534838,0 -100.405102520466,20.6003988538436,0 -100.404306759285,20.6003001834346,0 -100.404253779783,20.6007136577232,0 -100.404946324277,20.6007902099423,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark id="5AA56F433C000006">
+					<name>kml_4</name>
+					<styleUrl>#__managed_style_0276B598613ECE12EEC6</styleUrl>
+					<Point>
+						<coordinates>-100.404445490231,20.6009020527703,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="5AA56F433C000007">
+					<name>kml_5</name>
+					<styleUrl>#__managed_style_153A20C5483ECE12EEC4</styleUrl>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-100.403538557653,20.6002557784072,0 -100.40304547547,20.6002790982958,0 -100.40268425198,20.6003340685695,0 -100.402189546462,20.6004187615962,0 -100.40234193759,20.600444671807,0 -100.40302961178,20.6005394033237,0 -100.403659830333,20.6006608421395,0 -100.404253779783,20.6007136577232,0 -100.40431321163,20.6002498265077,0 -100.403538557653,20.6002557784072,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark id="5AA56F433C000008">
+					<name>kml_6</name>
+					<styleUrl>#__managed_style_153A20C5483ECE12EEC4</styleUrl>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-100.40304547547,20.6002790982958,0 -100.403565563212,20.6002545011623,0 -100.403517,20.5997800000027,0 -100.402982393284,20.5998163477816,0 -100.40304547547,20.6002790982958,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark id="5AA56F433C000009">
+					<name>kml_7</name>
+					<styleUrl>#__managed_style_153A20C5483ECE12EEC4</styleUrl>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-100.401521258161,20.6009766822857,0 -100.401782437457,20.6009263544688,0 -100.402045140635,20.6008836337988,0 -100.402309117855,20.600848560902,0 -100.402574118066,20.6008211691317,0 -100.402839889245,20.6008014845359,0 -100.403106178635,20.6007895258329,0 -100.403960466833,20.6007685978125,0 -100.404234257054,20.6007835211399,0 -100.404231273681,20.6007116564581,0 -100.403659830333,20.6006608421395,0 -100.40302961178,20.6005394033237,0 -100.402189546462,20.6004187615962,0 -100.401441953578,20.6005580823969,0 -100.401438952354,20.600512620357,0 -100.401410184425,20.6005143040985,0 -100.401162945984,20.6005640325528,0 -100.400906081295,20.6006119004189,0 -100.400906385892,20.6006578882346,0 -100.400544190058,20.6007253843184,0 -100.400537230579,20.6007785545349,0 -100.400519115898,20.6007943907207,0 -100.400266435121,20.6008059273804,0 -100.400267998733,20.6009535040395,0 -100.400525126374,20.600964244437,0 -100.400697937298,20.6009519286767,0 -100.401217572445,20.6008414980677,0 -100.401261851138,20.6010345693884,0 -100.401521258161,20.6009766822857,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark id="5AA56F433C00000A">
+					<name>kml_8</name>
+					<styleUrl>#__managed_style_153A20C5483ECE12EEC4</styleUrl>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-100.402619042703,20.5999541583177,0 -100.402144092098,20.5999737403901,0 -100.402189546462,20.6004187615962,0 -100.402683004253,20.6003267993152,0 -100.402619042703,20.5999541583177,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark id="5AA56F433C00000B">
+					<name>kml_9</name>
+					<styleUrl>#__managed_style_04A17774003ECE12EEC7</styleUrl>
+					<Point>
+						<coordinates>-100.404999720421,20.5994304207281,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="5AA56F433C00000C">
+					<name>kml_10</name>
+					<styleUrl>#__managed_style_04A17774003ECE12EEC7</styleUrl>
+					<Point>
+						<coordinates>-100.403313717238,20.5991251465903,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+		</Folder>
+		<Folder id="5AA569EDFF000001">
+			<name>Tula</name>
+			<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+			<Placemark id="5B81E4826F000003">
+				<name>kml_1</name>
+				<styleUrl>#__managed_style_153A20C5483ECE12EEC4</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-99.3155996785801,20.051648020993,0 -99.3159003231719,20.0516984124127,0 -99.3161193017727,20.0517198445258,0 -99.316403936848,20.0517190827703,0 -99.31639834766412,20.0517125065844,0 -99.3163906725827,20.051718347209,0 -99.31566681000298,20.0508661764777,0 -99.3155996785801,20.051648020993,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark id="5B81E4B77B000003">
+				<name>kml_2</name>
+				<styleUrl>#__managed_style_153A20C5483ECE12EEC4</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-99.31687679675341,20.0516982064669,0 -99.31719852912498,20.0517009963295,0 -99.3171753571286,20.0515572179978,0 -99.3169489535651,20.0501910703952,0 -99.3168321525951,20.0503081858195,0 -99.31679239196811,20.0503235750915,0 -99.31647752125021,20.0503795123803,0 -99.31623870442358,20.0503252278522,0 -99.31611548314309,20.0502680486196,0 -99.31549251903991,20.0495325580966,0 -99.3152235479191,20.0497371353588,0 -99.3152215376203,20.0497387716265,0 -99.3152224862862,20.0497398124255,0 -99.31528714332981,20.0498131365308,0 -99.31528129496802,20.0498175344088,0 -99.3153677621365,20.0499214577501,0 -99.31545571895168,20.0500257413054,0 -99.3160429426386,20.0507164575362,0 -99.31687679675341,20.0516982064669,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark id="5B81E4EB00000003">
+				<name>kml_3</name>
+				<styleUrl>#__managed_style_153A20C5483ECE12EEC4</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-99.31770048832411,20.0525229471915,0 -99.3176950885551,20.0524059551795,0 -99.3174791028014,20.0524063430864,0 -99.31757848889988,20.0525231663377,0 -99.31770048832411,20.0525229471915,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+		</Folder>
+	</Folder>
+	<Folder id="5AA4CC4B9B000001">
+		<name>Estaciones y  Edificios Adicionales TQI</name>
+		<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+		<NetworkLink id="5AA4CC4B9C000002">
+			<name>Estaciones y  Edificios Adicionales TQI</name>
+			<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+			<Link>
+				<href>https://www.google.com/maps/d/kml?forcekml=1&amp;mid=1VMLuoR1fxlECZ-GdwGHR4u8sWInGnpc</href>
+			</Link>
+		</NetworkLink>
+	</Folder>
+	<Folder id="073C8546CE3DE69199C4">
+		<name>Estaciones y Edificios Adicionales TSNL 2</name>
+		<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+		<Folder id="5AC44CE6AB000001">
+			<name>BM Salinas Victoria</name>
+			<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+			<Folder id="5AC44CE6AB000002">
+				<name>BM Salinas Victoria</name>
+				<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+				<Placemark id="5AC44CE6AB000003">
+					<name>kml_1</name>
+					<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-100.283502,25.981998,0 -100.283805,25.981841,0 -100.284307,25.980881,0 -100.284299,25.980854,0 -100.284081,25.980178,0 -100.283965,25.979817,0 -100.283703,25.979007,0 -100.28346,25.979178,0 -100.282901,25.979571,0 -100.28275,25.979678,0 -100.283502,25.981998,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark id="5AC44CE6ED000004">
+					<name>kml_2</name>
+					<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-100.283805,25.981841,0 -100.283502,25.981998,0 -100.283547,25.982136,0 -100.284034,25.981839,0 -100.2844,25.981087,0 -100.284399,25.981084,0 -100.284349,25.980935,0 -100.284327,25.980868,0 -100.284308,25.980881,0 -100.28428,25.980933,0 -100.283805,25.981841,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark id="5AC44CE6ED000005">
+					<name>kml_3</name>
+					<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-100.284476,25.985003,0 -100.284537,25.985015,0 -100.284632,25.98502300000001,0 -100.284781,25.985026,0 -100.284976,25.984986,0 -100.285171,25.984922,0 -100.285583,25.984748,0 -100.285305,25.983886,0 -100.284728,25.982105,0 -100.2844,25.981087,0 -100.284034,25.981839,0 -100.283547,25.982136,0 -100.284476,25.985003,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark id="5AC44CE6ED000006">
+					<name>kml_4</name>
+					<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-100.284897,25.986302,0 -100.285991,25.986012,0 -100.285836,25.985532,0 -100.285583,25.984748,0 -100.285171,25.984922,0 -100.284976,25.984986,0 -100.284781,25.985026,0 -100.284632,25.98502300000001,0 -100.284537,25.985015,0 -100.284476,25.985003,0 -100.284897,25.986302,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark id="5AC44CE6ED000007">
+					<name>USO COMÚN</name>
+					<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+					<Point>
+						<coordinates>-100.283806,25.979635,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="5AC44CE6ED000008">
+					<name>ELIZONDO QUIJANO FRANCELIA JUANITA</name>
+					<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+					<Point>
+						<coordinates>-100.283267,25.979695,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="5AC44CE6EE000009">
+					<name>FERNANDO SOTO ESPINO</name>
+					<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+					<Point>
+						<coordinates>-100.28347,25.978834,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="5AC44CE6EE00000A">
+					<name>INMOBILIARIA MAFESA SA DE CV</name>
+					<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+					<Point>
+						<coordinates>-100.285119,25.985049,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="5AC44CE6EE00000B">
+					<name>INMOBILIARIA MAFESA SA DE CV</name>
+					<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+					<Point>
+						<coordinates>-100.284373,25.982817,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="5AC44CE6EE00000C">
+					<name>CAMINO A SAN JAVIER</name>
+					<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+					<Point>
+						<coordinates>-100.284298,25.981109,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder id="5AC44D8ADD000001">
+				<name>Escobedo</name>
+				<open>1</open>
+				<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+				<Folder id="5AC44D8ADD000002">
+					<name>Escobedo</name>
+					<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+					<Placemark id="5AC44D8ADD000003">
+						<name>kml_1</name>
+						<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										-100.304825,25.77922,0 -100.304849,25.779068,0 -100.305013,25.778022,0 -100.304739,25.777806,0 -100.304582,25.777675,0 -100.304468,25.777601,0 -100.304312,25.777526,0 -100.304312,25.777529,0 -100.304307,25.777573,0 -100.304301,25.777616,0 -100.304296,25.777659,0 -100.304271,25.777912,0 -100.304266,25.77796,0 -100.304238,25.778141,0 -100.304233,25.778183,0 -100.304228,25.778226,0 -100.304222,25.77827,0 -100.304217,25.778314,0 -100.304211,25.778359,0 -100.304206,25.778403,0 -100.3042,25.778448,0 -100.304195,25.778492,0 -100.304189,25.778536,0 -100.304184,25.778581,0 -100.304178,25.778625,0 -100.304172,25.778669,0 -100.304167,25.778714,0 -100.304161,25.778758,0 -100.304156,25.778803,0 -100.30415,25.778847,0 -100.304144,25.778891,0 -100.304139,25.77893600000001,0 -100.304133,25.77898,0 -100.304128,25.779024,0 -100.304122,25.779069,0 -100.304117,25.779113,0 -100.304114,25.77913,0 -100.304825,25.77922,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</Placemark>
+					<Placemark id="5AC44D8ADD000004">
+						<name>kml_2</name>
+						<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										-100.305659,25.780132,0 -100.305666,25.780066,0 -100.305667,25.780057,0 -100.305718,25.779729,0 -100.305823,25.77906,0 -100.305872,25.77881,0 -100.305873,25.778748,0 -100.305862,25.778715,0 -100.305013,25.778022,0 -100.304849,25.779068,0 -100.304719,25.779896,0 -100.304702,25.780003,0 -100.305516,25.780108,0 -100.305659,25.780132,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</Placemark>
+					<Placemark id="5AC44D8ADE000005">
+						<name>kml_3</name>
+						<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										-100.304702,25.780004,0 -100.304719,25.779896,0 -100.304825,25.77922,0 -100.304114,25.77913,0 -100.304111,25.779157,0 -100.304105,25.779204,0 -100.304097,25.779255,0 -100.304092,25.779297,0 -100.304086,25.779342,0 -100.304081,25.779386,0 -100.304075,25.77943,0 -100.304069,25.779475,0 -100.304064,25.779519,0 -100.304058,25.779563,0 -100.304053,25.779607,0 -100.304048,25.779651,0 -100.304042,25.779695,0 -100.304037,25.779739,0 -100.304031,25.77978299999999,0 -100.304026,25.779827,0 -100.304021,25.779871,0 -100.304015,25.779915,0 -100.304702,25.780004,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</Placemark>
+					<Placemark id="5AC44D8ADE000006">
+						<name>kml_4</name>
+						<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										-100.304477,25.780688,0 -100.304567,25.779986,0 -100.304015,25.779915,0 -100.30401,25.779959,0 -100.304005,25.780003,0 -100.303999,25.780047,0 -100.303994,25.780091,0 -100.303988,25.780135,0 -100.303983,25.780179,0 -100.303978,25.780223,0 -100.303972,25.780267,0 -100.303967,25.780311,0 -100.303961,25.780355,0 -100.303956,25.7804,0 -100.303931,25.780572,0 -100.303926,25.780615,0 -100.303925,25.780624,0 -100.304477,25.780688,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</Placemark>
+					<Placemark id="5AC44D8ADE000007">
+						<name>kml_5</name>
+						<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										-100.304477,25.780688,0 -100.305406,25.780794,0 -100.305516,25.780108,0 -100.304702,25.780003,0 -100.304702,25.780004,0 -100.304567,25.779986,0 -100.304477,25.780688,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</Placemark>
+					<Placemark id="5AC44D8ADE000008">
+						<name>JUAN BELTRAN GARCIA
+SUP= 4,385.999 m2</name>
+						<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+						<Point>
+							<coordinates>-100.304323,25.7801,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark id="5AC44D8ADE000009">
+						<name>BANCO ACTINVER S.A. - 1
+SUP= 6,205.984 m2</name>
+						<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+						<Point>
+							<coordinates>-100.304327,25.779847,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark id="5AC44D8ADE00000A">
+						<name>PENTA LAS TORRES SUP= 18,297.236 m2</name>
+						<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+						<Point>
+							<coordinates>-100.305423,25.778976,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark id="5AC44D8ADE00000B">
+						<name>CANTU GUEVARA HUMBERTO
+SUP= 11,738.318 m2</name>
+						<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+						<Point>
+							<coordinates>-100.304549,25.778788,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark id="5AC44D8ADE00000C">
+						<name>BANCO ACTINVER S.A. - 2
+SUP= 7,360.165 m2</name>
+						<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+						<Point>
+							<coordinates>-100.305092,25.780051,0</coordinates>
+						</Point>
+					</Placemark>
+				</Folder>
+			</Folder>
+			<Folder id="5AC44DF317000001">
+				<name>Escobedo</name>
+				<open>1</open>
+				<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+				<Folder id="5AC44DF317000002">
+					<name>Escobedo</name>
+					<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+					<Placemark id="5AC44DF318000003">
+						<name>kml_1</name>
+						<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										-100.304825,25.77922,0 -100.304849,25.779068,0 -100.305013,25.778022,0 -100.304739,25.777806,0 -100.304582,25.777675,0 -100.304468,25.777601,0 -100.304312,25.777526,0 -100.304312,25.777529,0 -100.304307,25.777573,0 -100.304301,25.777616,0 -100.304296,25.777659,0 -100.304271,25.777912,0 -100.304266,25.77796,0 -100.304238,25.778141,0 -100.304233,25.778183,0 -100.304228,25.778226,0 -100.304222,25.77827,0 -100.304217,25.778314,0 -100.304211,25.778359,0 -100.304206,25.778403,0 -100.3042,25.778448,0 -100.304195,25.778492,0 -100.304189,25.778536,0 -100.304184,25.778581,0 -100.304178,25.778625,0 -100.304172,25.778669,0 -100.304167,25.778714,0 -100.304161,25.778758,0 -100.304156,25.778803,0 -100.30415,25.778847,0 -100.304144,25.778891,0 -100.304139,25.77893600000001,0 -100.304133,25.77898,0 -100.304128,25.779024,0 -100.304122,25.779069,0 -100.304117,25.779113,0 -100.304114,25.77913,0 -100.304825,25.77922,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</Placemark>
+					<Placemark id="5AC44DF379000004">
+						<name>kml_2</name>
+						<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										-100.305659,25.780132,0 -100.305666,25.780066,0 -100.305667,25.780057,0 -100.305718,25.779729,0 -100.305823,25.77906,0 -100.305872,25.77881,0 -100.305873,25.778748,0 -100.305862,25.778715,0 -100.305013,25.778022,0 -100.304849,25.779068,0 -100.304719,25.779896,0 -100.304702,25.780003,0 -100.305516,25.780108,0 -100.305659,25.780132,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</Placemark>
+					<Placemark id="5AC44DF379000005">
+						<name>kml_3</name>
+						<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										-100.304702,25.780004,0 -100.304719,25.779896,0 -100.304825,25.77922,0 -100.304114,25.77913,0 -100.304111,25.779157,0 -100.304105,25.779204,0 -100.304097,25.779255,0 -100.304092,25.779297,0 -100.304086,25.779342,0 -100.304081,25.779386,0 -100.304075,25.77943,0 -100.304069,25.779475,0 -100.304064,25.779519,0 -100.304058,25.779563,0 -100.304053,25.779607,0 -100.304048,25.779651,0 -100.304042,25.779695,0 -100.304037,25.779739,0 -100.304031,25.77978299999999,0 -100.304026,25.779827,0 -100.304021,25.779871,0 -100.304015,25.779915,0 -100.304702,25.780004,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</Placemark>
+					<Placemark id="5AC44DF379000006">
+						<name>kml_4</name>
+						<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										-100.304477,25.780688,0 -100.304567,25.779986,0 -100.304015,25.779915,0 -100.30401,25.779959,0 -100.304005,25.780003,0 -100.303999,25.780047,0 -100.303994,25.780091,0 -100.303988,25.780135,0 -100.303983,25.780179,0 -100.303978,25.780223,0 -100.303972,25.780267,0 -100.303967,25.780311,0 -100.303961,25.780355,0 -100.303956,25.7804,0 -100.303931,25.780572,0 -100.303926,25.780615,0 -100.303925,25.780624,0 -100.304477,25.780688,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</Placemark>
+					<Placemark id="5AC44DF379000007">
+						<name>kml_5</name>
+						<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										-100.304477,25.780688,0 -100.305406,25.780794,0 -100.305516,25.780108,0 -100.304702,25.780003,0 -100.304702,25.780004,0 -100.304567,25.779986,0 -100.304477,25.780688,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</Placemark>
+					<Placemark id="5AC44DF379000008">
+						<name>JUAN BELTRAN GARCIA
+SUP= 4,385.999 m2</name>
+						<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+						<Point>
+							<coordinates>-100.304323,25.7801,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark id="5AC44DF379000009">
+						<name>BANCO ACTINVER S.A. - 1
+SUP= 6,205.984 m2</name>
+						<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+						<Point>
+							<coordinates>-100.304327,25.779847,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark id="5AC44DF37900000A">
+						<name>PENTA LAS TORRES SUP= 18,297.236 m2</name>
+						<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+						<Point>
+							<coordinates>-100.305423,25.778976,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark id="5AC44DF37900000B">
+						<name>CANTU GUEVARA HUMBERTO
+SUP= 11,738.318 m2</name>
+						<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+						<Point>
+							<coordinates>-100.304549,25.778788,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark id="5AC44DF37900000C">
+						<name>BANCO ACTINVER S.A. - 2
+SUP= 7,360.165 m2</name>
+						<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+						<Point>
+							<coordinates>-100.305092,25.780051,0</coordinates>
+						</Point>
+					</Placemark>
+				</Folder>
+			</Folder>
+		</Folder>
+		<Folder id="5AC44F9DC3000001">
+			<name>Escobedo</name>
+			<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+			<Folder id="5AC44F9DC3000002">
+				<name>Escobedo</name>
+				<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+				<Placemark id="5AC44F9DC3000003">
+					<name>kml_1</name>
+					<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-100.304825,25.77922,0 -100.304849,25.779068,0 -100.305013,25.778022,0 -100.304739,25.777806,0 -100.304582,25.777675,0 -100.304468,25.777601,0 -100.304312,25.777526,0 -100.304312,25.777529,0 -100.304307,25.777573,0 -100.304301,25.777616,0 -100.304296,25.777659,0 -100.304271,25.777912,0 -100.304266,25.77796,0 -100.304238,25.778141,0 -100.304233,25.778183,0 -100.304228,25.778226,0 -100.304222,25.77827,0 -100.304217,25.778314,0 -100.304211,25.778359,0 -100.304206,25.778403,0 -100.3042,25.778448,0 -100.304195,25.778492,0 -100.304189,25.778536,0 -100.304184,25.778581,0 -100.304178,25.778625,0 -100.304172,25.778669,0 -100.304167,25.778714,0 -100.304161,25.778758,0 -100.304156,25.778803,0 -100.30415,25.778847,0 -100.304144,25.778891,0 -100.304139,25.77893600000001,0 -100.304133,25.77898,0 -100.304128,25.779024,0 -100.304122,25.779069,0 -100.304117,25.779113,0 -100.304114,25.77913,0 -100.304825,25.77922,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark id="5AC44F9DC7000004">
+					<name>kml_2</name>
+					<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-100.305659,25.780132,0 -100.305666,25.780066,0 -100.305667,25.780057,0 -100.305718,25.779729,0 -100.305823,25.77906,0 -100.305872,25.77881,0 -100.305873,25.778748,0 -100.305862,25.778715,0 -100.305013,25.778022,0 -100.304849,25.779068,0 -100.304719,25.779896,0 -100.304702,25.780003,0 -100.305516,25.780108,0 -100.305659,25.780132,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark id="5AC44F9DC8000005">
+					<name>kml_3</name>
+					<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-100.304702,25.780004,0 -100.304719,25.779896,0 -100.304825,25.77922,0 -100.304114,25.77913,0 -100.304111,25.779157,0 -100.304105,25.779204,0 -100.304097,25.779255,0 -100.304092,25.779297,0 -100.304086,25.779342,0 -100.304081,25.779386,0 -100.304075,25.77943,0 -100.304069,25.779475,0 -100.304064,25.779519,0 -100.304058,25.779563,0 -100.304053,25.779607,0 -100.304048,25.779651,0 -100.304042,25.779695,0 -100.304037,25.779739,0 -100.304031,25.77978299999999,0 -100.304026,25.779827,0 -100.304021,25.779871,0 -100.304015,25.779915,0 -100.304702,25.780004,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark id="5AC44F9DC8000006">
+					<name>kml_4</name>
+					<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-100.304477,25.780688,0 -100.304567,25.779986,0 -100.304015,25.779915,0 -100.30401,25.779959,0 -100.304005,25.780003,0 -100.303999,25.780047,0 -100.303994,25.780091,0 -100.303988,25.780135,0 -100.303983,25.780179,0 -100.303978,25.780223,0 -100.303972,25.780267,0 -100.303967,25.780311,0 -100.303961,25.780355,0 -100.303956,25.7804,0 -100.303931,25.780572,0 -100.303926,25.780615,0 -100.303925,25.780624,0 -100.304477,25.780688,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark id="5AC44F9DC8000007">
+					<name>kml_5</name>
+					<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-100.304477,25.780688,0 -100.305406,25.780794,0 -100.305516,25.780108,0 -100.304702,25.780003,0 -100.304702,25.780004,0 -100.304567,25.779986,0 -100.304477,25.780688,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark id="5AC44F9DC8000008">
+					<name>JUAN BELTRAN GARCIA
+SUP= 4,385.999 m2</name>
+					<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+					<Point>
+						<coordinates>-100.304323,25.7801,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="5AC44F9DC8000009">
+					<name>BANCO ACTINVER S.A. - 1
+SUP= 6,205.984 m2</name>
+					<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+					<Point>
+						<coordinates>-100.304327,25.779847,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="5AC44F9DC800000A">
+					<name>PENTA LAS TORRES SUP= 18,297.236 m2</name>
+					<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+					<Point>
+						<coordinates>-100.305423,25.778976,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="5AC44F9DC800000B">
+					<name>CANTU GUEVARA HUMBERTO
+SUP= 11,738.318 m2</name>
+					<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+					<Point>
+						<coordinates>-100.304549,25.778788,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="5AC44F9DC800000C">
+					<name>BANCO ACTINVER S.A. - 2
+SUP= 7,360.165 m2</name>
+					<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+					<Point>
+						<coordinates>-100.305092,25.780051,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+		</Folder>
+		<Folder id="5AC45040DD000001">
+			<name>Anahuac</name>
+			<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+			<Folder id="5AC45040DF000002">
+				<name>Anahuac</name>
+				<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+				<Placemark id="5AC45040E1000003">
+					<name>kml_1</name>
+					<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-100.142435,27.229422,0 -100.142482,27.229398,0 -100.142575,27.229342,0 -100.142983,27.2291,0 -100.142636,27.228661,0 -100.142138,27.228858,0 -100.142435,27.229422,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark id="5AC450411F000004">
+					<name>kml_2</name>
+					<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-100.141491,27.229298,0 -100.141667,27.229366,0 -100.14189,27.229434,0 -100.142034,27.229465,0 -100.142145,27.22948299999999,0 -100.142193,27.22949,0 -100.142386,27.229517,0 -100.142491,27.229529,0 -100.142138,27.228858,0 -100.142636,27.228661,0 -100.142515,27.228506,0 -100.142106,27.228823,0 -100.141644,27.229152,0 -100.14147,27.229238,0 -100.141394,27.229243,0 -100.141401,27.22924799999999,0 -100.141491,27.229298,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark id="5AC450411F000005">
+					<name>kml_3</name>
+					<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-100.141116,27.229695,0 -100.141121,27.229696,0 -100.141119,27.229708,0 -100.141114,27.229757,0 -100.141109,27.229756,0 -100.141094,27.229838,0 -100.141087,27.22988,0 -100.14108,27.229931,0 -100.141068,27.229973,0 -100.141041,27.230078,0 -100.141034,27.23013600000001,0 -100.141025,27.230156,0 -100.140996,27.23026,0 -100.140979,27.230294,0 -100.140921,27.230483,0 -100.14307,27.22921,0 -100.143015,27.22914,0 -100.142983,27.2291,0 -100.142575,27.229342,0 -100.142482,27.229398,0 -100.142435,27.229422,0 -100.142491,27.229529,0 -100.142386,27.229517,0 -100.142193,27.22949,0 -100.142145,27.22948299999999,0 -100.142034,27.229465,0 -100.14189,27.229434,0 -100.141667,27.229366,0 -100.141491,27.229298,0 -100.141401,27.22924799999999,0 -100.141306,27.229187,0 -100.141263,27.229257,0 -100.141242,27.229291,0 -100.141204,27.229336,0 -100.141128,27.229417,0 -100.141129,27.229482,0 -100.141129,27.22950000000001,0 -100.141119,27.229529,0 -100.141116,27.229695,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark id="5AC4504120000006">
+					<name>{\fArial|b1|i0|c0|p34;DESCONOCIDO 1
+\A1;\fArial|b0|i0|c0|p34;SUP.	 3,804.268 M2
+\A0;\fArial|b1|i0|c0|p34;\N
+}</name>
+					<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+					<Point>
+						<coordinates>-100.142783,27.228901,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="5AC4504120000007">
+					<name>{\fArial|b1|i0|c0|p34;MUNICIPIO DE ANÁHUAC
+\A1;\fArial|b0|i0|c0|p34;SUP.	 4,603.675 M2}</name>
+					<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+					<Point>
+						<coordinates>-100.142174,27.229047,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="5AC4504120000008">
+					<name>{\fArial|b1|i0|c0|p34;MARCOS MENDOZA TURRUBIATES
+\A1;\fArial|b0|i0|c0|p34;SUP.	10,045.880 M2
+\A0;\fArial|b1|i0|c0|p34;\N}</name>
+					<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+					<Point>
+						<coordinates>-100.141895,27.229655,0</coordinates>
+					</Point>
+				</Placemark>
+				<Folder id="5AC450DCFE000001">
+					<name>Bustamante</name>
+					<open>1</open>
+					<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+					<Folder id="5AC450DCFE000002">
+						<name>Bustamante</name>
+						<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+						<Placemark id="5AC450DCFE000003">
+							<name>\pxqc;ESTACIÓN BUSTAMANTE
+SUP 9,193.552 M2</name>
+							<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+							<Point>
+								<coordinates>-100.442054,26.500616,0</coordinates>
+							</Point>
+						</Placemark>
+						<Placemark id="5AC450DD45000004">
+							<name>\pxqc;ESTACIÓN BUSTAMANTE
+SUP 9,193.552 M2</name>
+							<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+							<Point>
+								<coordinates>-100.442054,26.500616,0</coordinates>
+							</Point>
+						</Placemark>
+						<Placemark id="5AC450DD45000005">
+							<name>kml_3</name>
+							<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+							<Polygon>
+								<outerBoundaryIs>
+									<LinearRing>
+										<coordinates>
+											-100.441337,26.50066,0 -100.441328,26.500682,0 -100.441328,26.500696,0 -100.441333,26.500721,0 -100.441342,26.50074,0 -100.441356,26.500754,0 -100.44137,26.500762,0 -100.441575,26.500831,0 -100.441774,26.500899,0 -100.441846,26.500925,0 -100.441944,26.500959,0 -100.442049,26.500994,0 -100.442245,26.501071,0 -100.44237,26.501193,0 -100.442543,26.501446,0 -100.442567,26.501481,0 -100.442523,26.501501,0 -100.442798,26.501959,0 -100.44304,26.501841,0 -100.442043,26.500154,0 -100.442033,26.500158,0 -100.441937,26.500206,0 -100.441601,26.500433,0 -100.441337,26.50066,0 
+										</coordinates>
+									</LinearRing>
+								</outerBoundaryIs>
+							</Polygon>
+						</Placemark>
+					</Folder>
+				</Folder>
+			</Folder>
+		</Folder>
+		<Folder id="5AA3D1B7D0000002">
+			<name>Santa Catarina</name>
+			<snippet></snippet>
+			<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+			<Placemark id="5AA3D1B7D0000003">
+				<name>kml_1</name>
+				<snippet></snippet>
+				<styleUrl>#__managed_style_153A20C5483ECE12EEC4</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-100.451790916081,25.6791515583756,0 -100.451667463991,25.6791192007398,0 -100.451613888382,25.6790993821649,0 -100.451540801439,25.6790795843347,0 -100.451479153915,25.6790633986406,0 -100.451381160024,25.6790401232898,0 -100.451187632773,25.6789965523688,0 -100.45073432436,25.6788963256597,0 -100.450254007162,25.678788202211,0 -100.449780660244,25.6786742636088,0 -100.449628159287,25.6786368713875,0 -100.449614938044,25.6786649123555,0 -100.449603187117,25.6787031542872,0 -100.449599785315,25.6787398673168,0 -100.449598007804,25.67877078205481,0 -100.449602099065,25.6788033637406,0 -100.449610330548,25.6788349209447,0 -100.449625777592,25.6788653021475,0 -100.449647487375,25.67889211986961,0 -100.449700861454,25.6789307659935,0 -100.449791754044,25.67899568085,0 -100.45004838529,25.6791625331781,0 -100.450134321476,25.6792195035915,0 -100.45026777331,25.6793057459207,0 -100.450327557263,25.6793366788956,0 -100.45038352203,25.6793713082843,0 -100.450675742241,25.6795582762296,0 -100.450855004486,25.6796686518191,0 -100.451234405254,25.6798960994206,0 -100.451478371758,25.6800484017225,0 -100.451583389723,25.6801116406297,0 -100.451613684464,25.6800270400066,0 -100.451652714151,25.6799187898263,0 -100.451673249016,25.6798543516713,0 -100.451804073683,25.6794415094579,0 -100.45188698167,25.6791765855092,0 -100.451790916081,25.6791515583756,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark id="5AA3D1B7D0000004">
+				<name>MB INMUEBLES MONTERREY S.A. DE C.V.
+\pxqc;SUP. 15,779.078 M2 </name>
+				<snippet></snippet>
+				<styleUrl>#__managed_style_09CA75C4C13ECE12EEC8</styleUrl>
+				<Point>
+					<coordinates>-100.451799949013,25.6799694790891,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder id="5AA44C56FD000001">
+			<name>Salinas Victoria</name>
+			<snippet></snippet>
+			<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+			<Folder id="5AA44C56FD000002">
+				<name>Salinas Victoria</name>
+				<snippet></snippet>
+				<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+				<Placemark id="5AA44C56FD000003">
+					<name>kml_1</name>
+					<snippet></snippet>
+					<styleUrl>#__managed_style_3F280646A03ECE12EEC8</styleUrl>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-100.2793488769,25.9696509550648,0 -100.279364003832,25.9696689709041,0 -100.279370158583,25.969665067135,0 -100.279376457769,25.9696613563836,0 -100.279382893984,25.9696578430121,0 -100.279389459661,25.9696545311508,0 -100.279396147082,25.9696514246929,0 -100.279402948385,25.9696485272903,0 -100.279409855576,25.9696458423492,0 -100.279416860534,25.9696433730259,0 -100.279423955024,25.9696411222232,0 -100.279431130707,25.9696390925872,0 -100.279438379146,25.9696372865038,0 -100.279445691821,25.9696357060961,0 -100.279453060135,25.9696343532221,0 -100.279792029869,25.96941690451,0 -100.279771404852,25.9693541517034,0 -100.2793488769,25.9696509550648,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark id="5AA44C56FD000004">
+					<name>\A1;\pxt17;SUP.  283.667 M2</name>
+					<snippet></snippet>
+					<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+					<Point>
+						<coordinates>-100.279445342183,25.9692483404007,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="5AA44C56FD000005">
+					<name>\pxqc;{\fArial|b1|i0|c0|p34;PROLONGACIÓN MADERO }</name>
+					<snippet></snippet>
+					<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+					<Point>
+						<coordinates>-100.27956643055,25.9691227718139,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="5AA44C56FD000006">
+					<name>kml_4</name>
+					<snippet></snippet>
+					<styleUrl>#__managed_style_3F280646A03ECE12EEC8</styleUrl>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-100.280084871331,25.9709613173345,0 -100.280844947669,25.9706050567798,0 -100.280856539277,25.9705995515371,0 -100.280900268997,25.9705782852024,0 -100.280590283008,25.9696284776902,0 -100.280528898874,25.9694403938167,0 -100.280495425472,25.9693378281023,0 -100.279962667041,25.9699360751002,0 -100.279792029869,25.96941690451,0 -100.279453060135,25.9696343532221,0 -100.279460503951,25.9696332256044,0 -100.279467986288,25.9696323302075,0 -100.27947549828,25.9696316680923,0 -100.279483031031,25.969631240043,0 -100.279490575616,25.9696310465668,0 -100.279498123098,25.9696310878928,0 -100.279505664536,25.969631363972,0 -100.279513190997,25.9696318744775,0 -100.279520693565,25.9696326188044,0 -100.279528163352,25.9696335960711,0 -100.279535591509,25.9696348051198,0 -100.279542969237,25.9696362445183,0 -100.279550287797,25.9696379125615,0 -100.279557538518,25.9696398072734,0 -100.279564712811,25.9696419264096,0 -100.279571802178,25.9696442674595,0 -100.27957879822,25.9696468276502,0 -100.279585692651,25.9696496039486,0 -100.279592477302,25.969652593066,0 -100.279599144137,25.9696557914615,0 -100.279605685257,25.9696591953462,0 -100.279612092915,25.9696628006879,0 -100.27961835952,25.9696666032156,0 -100.279624477648,25.9696705984248,0 -100.279630440052,25.9696747815827,0 -100.279636239668,25.969679147734,0 -100.279641869626,25.9696836917065,0 -100.279647323257,25.9696884081174,0 -100.279652594101,25.9696932913795,0 -100.279657675914,25.9696983357081,0 -100.279662562675,25.9697035351277,0 -100.279667248595,25.9697088834789,0 -100.279671728125,25.969714374426,0 -100.279675995956,25.9697200014645,0 -100.279680047034,25.9697257579284,0 -100.279683876559,25.9697316369987,0 -100.279687479995,25.9697376317109,0 -100.279690853074,25.9697437349636,0 -100.279693991798,25.9697499395269,0 -100.279696892451,25.9697562380507,0 -100.279699551596,25.9697626230738,0 -100.279701966083,25.9697690870323,0 -100.279704133051,25.9697756222691,0 -100.280084871331,25.9709613173345,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark id="5AA44C56FD000007">
+					<name>\pxqc;{\fVerdana|b1|i0|c0|p34;JOSE HERMILO ELIZONDO PAEZ}</name>
+					<snippet></snippet>
+					<styleUrl>#__managed_style_3852CEAEAB3ECE12EEC6</styleUrl>
+					<Point>
+						<coordinates>-100.280121459299,25.9700332857224,697.89575</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="5AA44C56FD000008">
+					<name>\A1;\pxt17;SUP.  12,311.391 M2</name>
+					<snippet></snippet>
+					<styleUrl>#__managed_style_3852CEAEAB3ECE12EEC6</styleUrl>
+					<Point>
+						<coordinates>-100.279999191509,25.9701683047434,697.89575</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="5AA44C56FD000009">
+					<name>kml_7</name>
+					<snippet></snippet>
+					<styleUrl>#__managed_style_3F280646A03ECE12EEC8</styleUrl>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-100.28137873948,25.9720443133662,0 -100.28137878585,25.972044455442,0 -100.281378801382,25.9720444907613,0 -100.281378801676,25.9720444910503,0 -100.281603431317,25.9722647432061,0 -100.280609008357,25.9692102821945,0 -100.28049542608,25.9693378274196,0 -100.280900487623,25.9705789510778,0 -100.28137873948,25.9720443133662,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark id="5AA44C56FD00000A">
+					<name>{\fArial|b1|i0|c0|p34;DESCONOCIDO  1}</name>
+					<snippet></snippet>
+					<styleUrl>#__managed_style_3852CEAEAB3ECE12EEC6</styleUrl>
+					<Point>
+						<coordinates>-100.280941184428,25.9702484123337,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="5AA44C56FD00000B">
+					<name>\A1;SUP. 4,919.563 M2</name>
+					<snippet></snippet>
+					<styleUrl>#__managed_style_3852CEAEAB3ECE12EEC6</styleUrl>
+					<Point>
+						<coordinates>-100.280857735639,25.9702674519608,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="5AA44C56FD00000C">
+					<name>kml_10</name>
+					<snippet></snippet>
+					<styleUrl>#__managed_style_3F280646A03ECE12EEC8</styleUrl>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-100.28102445673,25.9712224137931,0 -100.281071105284,25.9713447902102,0 -100.28137878585,25.972044455442,0 -100.280900487623,25.9705789510778,0 -100.280900270122,25.9705782846555,0 -100.280856539277,25.9705995515371,0 -100.280844947669,25.9706050567798,0 -100.280904333135,25.9708387628899,0 -100.280927553363,25.9709301929967,0 -100.280931278819,25.970941427586,0 -100.28102445673,25.9712224137931,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark id="5AA44C56FD00000D">
+					<name>{\fArial|b1|i0|c0|p34;USO COMÚN 1}</name>
+					<snippet></snippet>
+					<styleUrl>#__managed_style_3852CEAEAB3ECE12EEC6</styleUrl>
+					<Point>
+						<coordinates>-100.281039399903,25.9708910983698,-7.19637682777829e-11</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="5AA44C56FD00000E">
+					<name>{\fArial|b1|i0|c0|p34;USO COMÚN 2}</name>
+					<snippet></snippet>
+					<styleUrl>#__managed_style_3852CEAEAB3ECE12EEC6</styleUrl>
+					<Point>
+						<coordinates>-100.281741579234,25.9726709654064,697.89575</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="5AA44C56FD00000F">
+					<name>\A1;SUP. 2,609.446 M2</name>
+					<snippet></snippet>
+					<styleUrl>#__managed_style_3852CEAEAB3ECE12EEC6</styleUrl>
+					<Point>
+						<coordinates>-100.281658128903,25.9726900055483,697.89575</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="5AA44C56FD000010">
+					<name>kml_14</name>
+					<snippet></snippet>
+					<styleUrl>#__managed_style_3F280646A03ECE12EEC8</styleUrl>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-100.282230194492,25.9744766847869,0 -100.282264352213,25.9744677906517,0 -100.282089202306,25.97392379742,0 -100.28203291585,25.9736270389989,0 -100.2817467326,25.9727048915183,0 -100.281603431317,25.9722647432061,0 -100.281378801382,25.9720444907613,0 -100.28137880233,25.9720444929185,0 -100.281436198355,25.9722084621886,0 -100.282195265221,25.9743769035497,0 -100.282230194492,25.9744766847869,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark id="5AA44C56FD000011">
+					<name>kml_15</name>
+					<snippet></snippet>
+					<styleUrl>#__managed_style_3F280646A03ECE12EEC8</styleUrl>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-100.280726019738,25.972957920963,0 -100.280766826491,25.9733877157424,0 -100.28119046524,25.9746924954372,0 -100.281191054607,25.9746962990479,0 -100.281191496638,25.9747001189442,0 -100.281191790795,25.9747039504648,0 -100.281191936717,25.9747077889341,0 -100.281191934228,25.9747116296682,0 -100.281191783329,25.9747154679804,0 -100.281191484206,25.9747192991868,0 -100.281191037224,25.9747231186123,0 -100.281190442927,25.9747269215961,0 -100.28118970204,25.9747307034976,0 -100.281188815469,25.9747344597018,0 -100.281187784294,25.9747381856251,0 -100.281186609775,25.9747418767208,0 -100.281185293344,25.9747455284847,0 -100.281183836607,25.9747491364608,0 -100.281960757517,25.9745468416272,0 -100.282099492011,25.9745107175792,0 -100.282230194492,25.9744766847869,0 -100.282195265221,25.9743769035497,0 -100.281436198355,25.9722084621886,0 -100.28137880233,25.9720444929185,0 -100.28136878717,25.9720515100624,0 -100.280606480242,25.9725856681545,0 -100.280726019738,25.972957920963,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark id="5AA44C56FD000012">
+					<name>\A1;\pxt17;SUP.  26,656.030 M2</name>
+					<snippet></snippet>
+					<styleUrl>#__managed_style_3852CEAEAB3ECE12EEC6</styleUrl>
+					<Point>
+						<coordinates>-100.28123053999,25.9737317136813,697.89575</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="5AA44C56FD000013">
+					<name>\pxqc;{\fVerdana|b1|i0|c0|p34;VARGAS DEL TORO FRANCISCO JAVIER 2}</name>
+					<snippet></snippet>
+					<styleUrl>#__managed_style_3852CEAEAB3ECE12EEC6</styleUrl>
+					<Point>
+						<coordinates>-100.281352809825,25.9735966935992,697.89575</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="5AA44C56FD000014">
+					<name>kml_18</name>
+					<snippet></snippet>
+					<styleUrl>#__managed_style_3F280646A03ECE12EEC8</styleUrl>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-100.280606480242,25.9725856681545,0 -100.28136878717,25.9720515100624,0 -100.281378798872,25.9720444953415,0 -100.28137880233,25.9720444929185,0 -100.28137878585,25.972044455442,0 -100.281071105284,25.9713447902102,0 -100.28102445673,25.9712224137931,0 -100.280931278819,25.970941427586,0 -100.280927553363,25.9709301929967,0 -100.280904333135,25.9708387628899,0 -100.280844947669,25.9706050567798,0 -100.280084871331,25.9709613173345,0 -100.280606480242,25.9725856681545,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark id="5AA44C56FD000015">
+					<name>\A1;\pxt17;SUP.  15,179.641 M2</name>
+					<snippet></snippet>
+					<styleUrl>#__managed_style_3852CEAEAB3ECE12EEC6</styleUrl>
+					<Point>
+						<coordinates>-100.28054612923,25.971636043067,1395.7915</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="5AA44C56FD000016">
+					<name>\pxqc;{\fVerdana|b1|i0|c0|p34;VARGAS DEL TORO FRANCISCO JAVIER 1}</name>
+					<snippet></snippet>
+					<styleUrl>#__managed_style_3852CEAEAB3ECE12EEC6</styleUrl>
+					<Point>
+						<coordinates>-100.280668397816,25.9715010235771,1395.7915</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="5AA44C56FD000017">
+					<name>\A1;SUP. 889.536 M2</name>
+					<snippet></snippet>
+					<styleUrl>#__managed_style_3852CEAEAB3ECE12EEC6</styleUrl>
+					<Point>
+						<coordinates>-100.28154940086,25.9746256836508,697.89575</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="5AA44C56FD000018">
+					<name>\pxqc;{\fArial|b1|i0|c0|p34;CARRETERA A COLOMBIA MTY- NVLD}</name>
+					<snippet></snippet>
+					<styleUrl>#__managed_style_3852CEAEAB3ECE12EEC6</styleUrl>
+					<Point>
+						<coordinates>-100.281650975928,25.9744850472815,697.89575</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="5AA44C56FD000019">
+					<name>kml_23</name>
+					<snippet></snippet>
+					<styleUrl>#__managed_style_3F280646A03ECE12EEC8</styleUrl>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-100.281960757517,25.9745468416272,0 -100.281183836607,25.9747491364608,0 -100.281182296648,25.9747525785856,0 -100.281180628983,25.9747559717486,0 -100.281178835517,25.9747593120802,0 -100.281176918292,25.9747625957711,0 -100.281174879497,25.9747658190764,0 -100.281172721456,25.9747689783203,0 -100.281170446629,25.9747720699001,0 -100.281168057613,25.97477509029,0 -100.281165557129,25.9747780360455,0 -100.281162948032,25.9747809038074,0 -100.281160233295,25.9747836903051,0 -100.281157416014,25.974786392361,0 -100.281154499403,25.9747890068935,0 -100.281151486788,25.9747915309212,0 -100.281148381603,25.9747939615654,0 -100.281145187391,25.9747962960544,0 -100.281141907795,25.9747985317259,0 -100.281138546553,25.9748006660302,0 -100.2811351075,25.9748026965334,0 -100.281131594556,25.9748046209199,0 -100.28112801173,25.9748064369951,0 -100.281124363105,25.97480814268789,0 -100.281120652844,25.9748097360532,0 -100.28112764606,25.9748372523473,0 -100.282284832888,25.9745314006439,0 -100.282264352213,25.9744677906517,0 -100.282230194492,25.9744766847869,0 -100.282099492011,25.9745107175792,0 -100.281960757517,25.9745468416272,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+			</Folder>
+		</Folder>
+		<Folder id="5AA44B815A000001">
+			<name>Derramadero</name>
+			<snippet></snippet>
+			<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+			<Folder id="5AA44B815A000002">
+				<name>Derramadero</name>
+				<snippet></snippet>
+				<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+				<Placemark id="5AA44B815A000003">
+					<name>SUP. 55,890.260 m²</name>
+					<snippet></snippet>
+					<styleUrl>#__managed_style_09CA75C4C13ECE12EEC8</styleUrl>
+					<Point>
+						<coordinates>-101.092094746741,25.2709334221958,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="5AA44B815A000004">
+					<name>JOSÉ DE NIGRIS AMBROSIO</name>
+					<snippet></snippet>
+					<styleUrl>#__managed_style_09CA75C4C13ECE12EEC8</styleUrl>
+					<Point>
+						<coordinates>-101.092301828073,25.2708457104788,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="5AA44B815A000005">
+					<name>kml_3</name>
+					<snippet></snippet>
+					<styleUrl>#__managed_style_60597B6C323ECE12EEC8</styleUrl>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-101.092870099984,25.2702282226888,0 -101.091984179398,25.270103011453,0 -101.092332698477,25.2680541570548,0 -101.09156041018,25.2679455353085,0 -101.091531255497,25.26906433057,0 -101.091520322779,25.2694209866205,0 -101.09145656668,25.2699940396577,0 -101.091401890356,25.2707501561249,0 -101.091419673391,25.2708199826765,0 -101.091409303013,25.2711085648179,0 -101.091431348725,25.2715419394744,0 -101.091462084841,25.2717586253627,0 -101.091520411269,25.2720441754646,0 -101.091569350703,25.2722243692894,0 -101.091655149983,25.2725306616007,0 -101.091770118522,25.2729463480852,0 -101.091870491747,25.2733107894056,0 -101.091989495617,25.2737377135673,0 -101.092029535184,25.2738715045312,0 -101.092058986386,25.2739839372134,0 -101.092099018526,25.2741455288645,0 -101.092156201266,25.2744045013141,0 -101.092870099984,25.2702282226888,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark id="5AA44B815A000006">
+					<name>SUP. 1,491.288 m²</name>
+					<snippet></snippet>
+					<styleUrl>#__managed_style_09CA75C4C13ECE12EEC8</styleUrl>
+					<Point>
+						<coordinates>-101.091928716702,25.274791645703,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="5AA44B815A000007">
+					<name>ZONA FEDERAL LIBRAMIENTO 
+NORPONIENTE SALTILLO</name>
+					<snippet></snippet>
+					<styleUrl>#__managed_style_09CA75C4C13ECE12EEC8</styleUrl>
+					<Point>
+						<coordinates>-101.092249131389,25.2747229823564,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="5AA44B815A000008">
+					<name>kml_6</name>
+					<snippet></snippet>
+					<styleUrl>#__managed_style_60597B6C323ECE12EEC8</styleUrl>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-101.092156201266,25.2744045013141,0 -101.092099018526,25.2741455288645,0 -101.092096012708,25.2741333957524,0 -101.092068245097,25.2742961232859,0 -101.091994629496,25.2748123924672,0 -101.091790586285,25.2765432468074,0 -101.092156201266,25.2744045013141,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+			</Folder>
+			<Folder id="5AA44BFEFE000001">
+				<name>Lampazos del Naranjo</name>
+				<snippet></snippet>
+				<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+				<Folder id="5AA44BFEFE000002">
+					<name>Lampazos del Naranjo</name>
+					<snippet></snippet>
+					<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+					<Placemark id="5AA44BFEFE000003">
+						<name>kml_1</name>
+						<snippet></snippet>
+						<styleUrl>#__managed_style_9820309E343ECE12EEC8</styleUrl>
+						<LineString>
+							<coordinates>
+								-100.516170515821,27.0320848125697,0 -100.51583604939,27.0326320496049,0 
+							</coordinates>
+						</LineString>
+					</Placemark>
+					<Placemark id="5AA44BFEFF000004">
+						<name>\pxqc;\L{\fArial|b1|i0|c0|p34;\LRODRIGUEZ ALLEN ROSAURO FEDERICO Y COPS
+\fArial|b0|i0|c0|p34;8,028.532 m2}</name>
+						<snippet></snippet>
+						<styleUrl>#__managed_style_9820309E343ECE12EEC8</styleUrl>
+						<Point>
+							<coordinates>-100.516022082959,27.032372790582,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark id="5AA44BFEFF000005">
+						<name>kml_3</name>
+						<snippet></snippet>
+						<styleUrl>#__managed_style_3F280646A03ECE12EEC8</styleUrl>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										-100.515719390311,27.0325371942711,0 -100.515721653347,27.0325997997586,0 -100.515736412867,27.0326902804697,0 -100.51578277786,27.0328987308524,0 -100.51589192392,27.033318951659,0 -100.516448244428,27.0323740469088,0 -100.516572070211,27.0321701673932,0 -100.516587665935,27.0321420723109,0 -100.516274772672,27.0319882287552,0 -100.515757944471,27.0317341118413,0 -100.515752618694,27.0317779050631,0 -100.5157480404,27.0318132559388,0 -100.515727443217,27.0319723068391,0 -100.515725235193,27.0320170777126,0 -100.515721234778,27.0322122533988,0 -100.515719390311,27.0325371942711,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</Placemark>
+					<Placemark id="5AA44BFEFF000006">
+						<name>kml_4</name>
+						<snippet></snippet>
+						<styleUrl>#__managed_style_3F280646A03ECE12EEC8</styleUrl>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										-100.51589192392,27.033318951659,0 -100.515955582163,27.0333501529133,0 -100.51666559959,27.0321803906015,0 -100.516587665935,27.0321420723109,0 -100.516572070211,27.0321701673932,0 -100.516448244428,27.0323740469088,0 -100.51589192392,27.033318951659,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</Placemark>
+					<Placemark id="5AA44BFEFF000007">
+						<name>\L{\fArial|b1|i0|c0|p34;\LDESCONOCIDO
+\fArial|b0|i0|c0|p34;1,194.758 m2}</name>
+						<snippet></snippet>
+						<styleUrl>#__managed_style_9820309E343ECE12EEC8</styleUrl>
+						<Point>
+							<coordinates>-100.516377868786,27.03263248562,0</coordinates>
+						</Point>
+					</Placemark>
+				</Folder>
+			</Folder>
+		</Folder>
+		<Folder id="5AA44A1027000001">
+			<name>ZICA Garcia</name>
+			<snippet></snippet>
+			<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+			<Folder id="5AA44A1027000002">
+				<name>ZICA Garcia</name>
+				<snippet></snippet>
+				<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+				<Placemark id="5AA44A1027000003">
+					<name>\pxqc;BANCO REGIONAL SA
+SUP 14,019.827 M2</name>
+					<snippet></snippet>
+					<styleUrl>#__managed_style_09CA75C4C13ECE12EEC8</styleUrl>
+					<Point>
+						<coordinates>-100.577702562415,25.7638786496557,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="5AA44A1027000004">
+					<name>kml_2</name>
+					<snippet></snippet>
+					<styleUrl>#__managed_style_3F280646A03ECE12EEC8</styleUrl>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-100.576966521688,25.7640872952277,0 -100.576113081142,25.763770973767,0 -100.575589169284,25.7649299825149,0 -100.575667533677,25.7649573943251,0 -100.575776654344,25.7649995666585,0 -100.57591531151,25.7650519791585,0 -100.575940512344,25.7650604559918,0 -100.57596664101,25.7650714904918,0 -100.575991968344,25.7650890054918,0 -100.57601575151,25.7651067168252,0 -100.576038643344,25.7651289863252,0 -100.57605820151,25.7651507289918,0 -100.57607258301,25.7651683651585,0 -100.576087338344,25.7651960071585,0 -100.576102697177,25.7652219474918,0 -100.57612173351,25.7652754753252,0 -100.576130276972,25.7653274331401,0 -100.576423162982,25.7654359882666,0 -100.576966521688,25.7640872952277,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark id="5AA44A1027000005">
+					<name>kml_3</name>
+					<snippet></snippet>
+					<styleUrl>#__managed_style_3F280646A03ECE12EEC8</styleUrl>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-100.576130276972,25.7653274331401,0 -100.57612173351,25.7652754753252,0 -100.576102697177,25.7652219474918,0 -100.576087338344,25.7651960071585,0 -100.57607258301,25.7651683651585,0 -100.57605820151,25.7651507289918,0 -100.576038643344,25.7651289863252,0 -100.57601575151,25.7651067168252,0 -100.575991968344,25.7650890054918,0 -100.57596664101,25.7650714904918,0 -100.575940512344,25.7650604559918,0 -100.57591531151,25.7650519791585,0 -100.575776654344,25.7649995666585,0 -100.575667533677,25.7649573943251,0 -100.575589169284,25.7649299825149,0 -100.575512938289,25.7650986204038,0 -100.576130276972,25.7653274331401,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark id="5AA44A1027000006">
+					<name>\pxqc;DESCONOCIDO 1
+SUP 1,168.598 M2</name>
+					<snippet></snippet>
+					<styleUrl>#__managed_style_09CA75C4C13ECE12EEC8</styleUrl>
+					<Point>
+						<coordinates>-100.576044006221,25.7664842616606,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="5AA44A1027000007">
+					<name>\pxqc;HECTOR JASSO GUTIERREZ
+SUP 71,979.541 M2</name>
+					<snippet></snippet>
+					<styleUrl>#__managed_style_09CA75C4C13ECE12EEC8</styleUrl>
+					<Point>
+						<coordinates>-100.579954818587,25.7648951361233,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="5AA44A1027000008">
+					<name>kml_6</name>
+					<snippet></snippet>
+					<styleUrl>#__managed_style_3F280646A03ECE12EEC8</styleUrl>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-100.580604853746,25.7669858004519,0 -100.581143148532,25.7656352328717,0 -100.576966521688,25.7640872952277,0 -100.576423162982,25.7654359882666,0 -100.580604853746,25.7669858004519,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark id="5AA44A1027000009">
+					<name>kml_7</name>
+					<snippet></snippet>
+					<styleUrl>#__managed_style_3F280646A03ECE12EEC8</styleUrl>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-100.58478669246,25.768535503691,0 -100.585315288699,25.7671813445621,0 -100.581143169842,25.7656352407693,0 -100.580604875056,25.7669858083496,0 -100.58478669246,25.768535503691,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark id="5AA44A102700000A">
+					<name>kml_8</name>
+					<snippet></snippet>
+					<styleUrl>#__managed_style_3F280646A03ECE12EEC8</styleUrl>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-100.585617960086,25.7672935021815,0 -100.585315288699,25.7671813445621,0 -100.58478669246,25.768535503691,0 -100.585017909789,25.7686211832896,0 -100.585617960086,25.7672935021815,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark id="5AA44A102700000B">
+					<name>\pxqc;JOSE LUIS TREVIÑO GONZALEZ
+SUP 4,597.533 M2</name>
+					<snippet></snippet>
+					<styleUrl>#__managed_style_09CA75C4C13ECE12EEC8</styleUrl>
+					<Point>
+						<coordinates>-100.587141604323,25.767226039394,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="5AA44A102700000C">
+					<name>\pxqc;RAUL ENRIQUE JASSO SEPULVEDA 
+SUP 71,940.040 M2</name>
+					<snippet></snippet>
+					<styleUrl>#__managed_style_09CA75C4C13ECE12EEC8</styleUrl>
+					<Point>
+						<coordinates>-100.584411710656,25.7665165679355,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+		</Folder>
+		<Folder id="5AA44A84A5000001">
+			<name>ZICA las Torres</name>
+			<snippet></snippet>
+			<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+			<Folder id="5AA44A84A5000002">
+				<name>ZICA las Torres</name>
+				<snippet></snippet>
+				<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+				<Placemark id="5AA44A84A5000003">
+					<name>BANCO ACTINVER S.A. DE C.V.
+SUP= 54,883.318 m2</name>
+					<snippet></snippet>
+					<styleUrl>#__managed_style_09CA75C4C13ECE12EEC8</styleUrl>
+					<Point>
+						<coordinates>-100.305903631924,25.7842355257923,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="5AA44A84A5000004">
+					<name>kml_2</name>
+					<snippet></snippet>
+					<styleUrl>#__managed_style_3F280646A03ECE12EEC8</styleUrl>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-100.304595690073,25.7861046817326,0 -100.304650915364,25.7856147626382,0 -100.305318920914,25.7813370258737,0 -100.305406094294,25.7807937247287,0 -100.304477399132,25.7806876074235,0 -100.303745174532,25.7864225835591,0 -100.304559559928,25.7865093828274,0 -100.304595690073,25.7861046817326,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark id="5AA44A84A5000005">
+					<name>kml_3</name>
+					<snippet></snippet>
+					<styleUrl>#__managed_style_3F280646A03ECE12EEC8</styleUrl>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-100.304477399132,25.7806876074235,0 -100.303924678555,25.7806244479143,0 -100.303920449434,25.7806589984305,0 -100.303915068556,25.7807029675276,0 -100.303909688662,25.7807469357125,0 -100.303904308744,25.7807909020917,0 -100.303898927896,25.78083487479901,0 -100.30389349024,25.7808793067434,0 -100.303887736507,25.7809241079405,0 -100.303882015767,25.7809686434708,0 -100.303876297018,25.7810131789826,0 -100.303870578255,25.7810577135916,0 -100.303864858542,25.7811022527229,0 -100.303859137798,25.7811467891546,0 -100.303853258762,25.7811925648329,0 -100.303832274611,25.7813342141023,0 -100.303826707467,25.7813775691081,0 -100.303820987697,25.7814221055288,0 -100.303815266917,25.7814666410552,0 -100.303809547141,25.7815111774751,0 -100.303803828358,25.781555713886,0 -100.303798108564,25.7816002494024,0 -100.303792389755,25.7816447840069,0 -100.303786668,25.7816893231518,0 -100.303780949203,25.7817338595612,0 -100.303775229396,25.7817783950764,0 -100.303769508588,25.7818229306002,0 -100.30376378977,25.7818674661059,0 -100.303758384281,25.7819095574509,0 -100.303744086178,25.7820722337214,0 -100.303738517424,25.7821184205411,0 -100.303732734105,25.7821663689779,0 -100.303707797381,25.7823024500289,0 -100.303702922141,25.7823428771493,0 -100.303697596244,25.782387052497,0 -100.30369226832,25.782431225154,0 -100.303686943403,25.7824753995894,0 -100.303681507841,25.7825204696164,0 -100.303650894926,25.7827447503491,0 -100.303556740259,25.7834895666385,0 -100.303433863855,25.78443489837,0 -100.303328032615,25.7851992023375,0 -100.303109817987,25.7868979054745,0 -100.30309488955,25.7870846427512,0 -100.303077470552,25.7872623542988,0 -100.303057132764,25.7874698433065,0 -100.303096903026,25.7875188636028,0 -100.303143380063,25.7875737110418,0 -100.303162784121,25.7875955244689,0 -100.303239002786,25.7875368706137,0 -100.303248629424,25.7874331487789,0 -100.303303849382,25.7870273291679,0 -100.303387363699,25.7863844456799,0 -100.303745174532,25.7864225835591,0 -100.304477399132,25.7806876074235,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark id="5AA44A84A5000006">
+					<name> DESCONOCIDO 1
+SUP= 337.245 m2</name>
+					<snippet></snippet>
+					<styleUrl>#__managed_style_09CA75C4C13ECE12EEC8</styleUrl>
+					<Point>
+						<coordinates>-100.302062894969,25.7869810070284,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="5AA44A84A5000007">
+					<name>kml_5</name>
+					<snippet></snippet>
+					<styleUrl>#__managed_style_3F280646A03ECE12EEC8</styleUrl>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-100.303077470552,25.7872623542988,0 -100.30309488955,25.7870846427512,0 -100.303109817987,25.7868979054745,0 -100.303328032615,25.7851992023375,0 -100.303433863855,25.78443489837,0 -100.303556740259,25.7834895666385,0 -100.303650894926,25.7827447503491,0 -100.303469164182,25.7840761575911,0 -100.303412062522,25.7845046109114,0 -100.303406640227,25.7845489234388,0 -100.303401136347,25.784593892178,0 -100.30339563345,25.7846388600051,0 -100.303390075881,25.7846842663536,0 -100.303366963178,25.7848633411225,0 -100.303361507731,25.7849079076497,0 -100.30336068764,25.7849135317311,0 -100.303353877924,25.7849537197521,0 -100.303312409387,25.7852830814609,0 -100.303308426773,25.7853272754474,0 -100.303307831602,25.7853325842185,0 -100.303302050046,25.7853756937285,0 -100.303271011205,25.7856424339419,0 -100.303270743324,25.7856445671071,0 -100.303264819807,25.7856887414637,0 -100.303258895318,25.785732918537,0 -100.303252970787,25.785777091999,0 -100.303247046242,25.7858212645579,0 -100.303241121742,25.7858654416303,0 -100.30323519719,25.7859096141886,0 -100.303229272644,25.7859537876492,0 -100.303223347136,25.7859979647296,0 -100.303217422583,25.7860421381895,0 -100.303211498026,25.7860863116492,0 -100.303205573456,25.7861304842057,0 -100.303199648931,25.7861746612758,0 -100.30319372535,25.7862188338228,0 -100.303187801776,25.7862630072721,0 -100.303181947262,25.78630665643979,0 -100.303176508703,25.7863500409521,0 -100.303171005105,25.7863939533207,0 -100.303165499519,25.7864378666097,0 -100.303159996902,25.7864817780661,0 -100.303154492296,25.7865256904428,0 -100.303148988685,25.7865696028102,0 -100.303143486067,25.7866135151683,0 -100.303137980465,25.7866574284558,0 -100.303132477831,25.7867013399106,0 -100.303126973209,25.7867452522857,0 -100.303121469571,25.7867891637488,0 -100.303115964953,25.7868330770261,0 -100.303110461328,25.7868769902941,0 -100.303104956683,25.7869209017652,0 -100.303099454039,25.7869648141209,0 -100.303093950395,25.7870087264852,0 -100.30308844576,25.7870526397609,0 -100.303082942099,25.7870965512218,0 -100.303077437447,25.7871404635941,0 -100.30307193379,25.7871843759573,0 -100.303066429132,25.787228288329,0 -100.303060925477,25.7872722015943,0 -100.303055420803,25.7873161130625,0 -100.303049918129,25.7873600254154,0 -100.303044413458,25.7874039377859,0 -100.303038910777,25.7874478501382,0 -100.303057132764,25.7874698433065,0 -100.303077470552,25.7872623542988,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark id="5AA44A84A5000008">
+					<name>JUAN BELTRAN GARCIA GARCIA.
+SUP= 38,686.499 m2</name>
+					<snippet></snippet>
+					<styleUrl>#__managed_style_09CA75C4C13ECE12EEC8</styleUrl>
+					<Point>
+						<coordinates>-100.30485524638,25.7869558817911,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+		</Folder>
+		<Folder id="5AA44B3C32000001">
+			<name>ZICA Nuevo Laredo</name>
+			<snippet></snippet>
+			<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+			<Folder id="5AA44B3C32000002">
+				<name>ZICA Nuevo Laredo</name>
+				<snippet></snippet>
+				<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+				<Placemark id="5AA44B3C32000003">
+					<name>kml_1</name>
+					<snippet></snippet>
+					<styleUrl>#__managed_style_3F280646A03ECE12EEC8</styleUrl>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-99.54540886620239,27.46732930239421,0 -99.5453874694129,27.4649471328667,0 -99.54538729243501,27.464940893553,0 -99.54538687380732,27.4649346634232,0 -99.54538621403,27.4649284499219,0 -99.5453853138916,27.4649222604736,0 -99.5453841744677,27.4649161024744,0 -99.5453827971199,27.4649099832826,0 -99.54538118349402,27.4649039102101,0 -99.54537933551819,27.4648978905137,0 -99.54537725540079,27.4648919313865,0 -99.5453749456273,27.4648860399493,0 -99.54537240895782,27.4648802232417,0 -99.54536964842342,27.4648744882144,0 -99.54536666732288,27.4648688417203,0 -99.5453634692183,27.4648632905063,0 -99.5453600579313,27.4648578412059,0 -99.5453564375381,27.4648525003304,0 -99.54535261236479,27.4648472742618,0 -99.5453485869821,27.4648421692449,0 -99.5453443662001,27.4648371913797,0 -99.5453399550624,27.4648323466144,0 -99.54533535883999,27.464827640738,0 -99.54533058302492,27.4648230793738,0 -99.54532563332391,27.4648186679721,0 -99.5453205156515,27.4648144118043,0 -99.5453152361229,27.4648103159561,0 -99.5453098010468,27.4648063853217,0 -99.5453042169176,27.464802624598,0 -99.54529849040799,27.4647990382786,0 -99.5452926283606,27.464795630649,0 -99.54528663778019,27.464792405781,0 -99.54528052582501,27.464789367528,0 -99.54527429979829,27.4647865195205,0 -99.54526796713969,27.4647838651616,0 -99.5452615354163,27.4647814076231,0 -99.54525501231331,27.4647791498416,0 -99.54524840562541,27.4647770945148,0 -99.5452417232471,27.4647752440988,0 -99.5452349731632,27.4647736008047,0 -99.5452281634395,27.4647721665959,0 -99.54522130221309,27.4647709431864,0 -99.54521439768271,27.464769932038,0 -99.5452074580984,27.4647691343589,0 -99.5452004917526,27.4647685511022,0 -99.54519350696948,27.464768182965,0 -99.54518651209528,27.4647680303871,0 -99.5451795154883,27.4647680935508,0 -99.5431131551185,27.4647973816827,0 -99.53892908874892,27.4624435158162,0 -99.5382999192926,27.4633337350687,0 -99.54540886620239,27.46732930239421,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark id="5AA44B3C32000004">
+					<name>DESCONOCIDO</name>
+					<snippet></snippet>
+					<styleUrl>#__managed_style_3852CEAEAB3ECE12EEC6</styleUrl>
+					<Point>
+						<coordinates>-99.5414526824767,27.464822354182,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="5AA44B3C32000005">
+					<name>\A1;SUP.  108,602.203  M2</name>
+					<snippet></snippet>
+					<styleUrl>#__managed_style_3852CEAEAB3ECE12EEC6</styleUrl>
+					<Point>
+						<coordinates>-99.54158054692378,27.464751404749,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+		</Folder>
+		<Folder id="5AA449B48A000001">
+			<name>ZICA Derramadero</name>
+			<snippet></snippet>
+			<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+			<Folder id="5AA449B48A000002">
+				<name>ZICA Derramadero</name>
+				<snippet></snippet>
+				<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+				<Placemark id="5AA449B48A000003">
+					<name>DESCONOCIDO 2
+SUP= 146,630.821 M2</name>
+					<snippet></snippet>
+					<styleUrl>#__managed_style_09CA75C4C13ECE12EEC8</styleUrl>
+					<Point>
+						<coordinates>-101.084452742589,25.232100407963,697.89575</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="5AA449B48A000004">
+					<name>kml_2</name>
+					<snippet></snippet>
+					<styleUrl>#__managed_style_3F280646A03ECE12EEC8</styleUrl>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-101.085550709823,25.2270428944621,-1.68383055268559e-06 -101.084292898094,25.2271141008459,-1.68383055268559e-06 -101.085004549621,25.23751458487,-1.68383055268559e-06 -101.086262467128,25.2374433657022,-1.68383055268559e-06 -101.085550709823,25.2270428944621,-1.68383055268559e-06 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark id="5AA449B48A000005">
+					<name>DESCONOCIDO 1
+SUP= 11,694.273 M2</name>
+					<snippet></snippet>
+					<styleUrl>#__managed_style_09CA75C4C13ECE12EEC8</styleUrl>
+					<Point>
+						<coordinates>-101.089633157701,25.2292511898501,697.89575</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="5AA449B48A000006">
+					<name>kml_4</name>
+					<snippet></snippet>
+					<styleUrl>#__managed_style_3F280646A03ECE12EEC8</styleUrl>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-101.091424519534,25.2275826524722,0 -101.091424319739,25.2275959929032,0 -101.091419584956,25.2284891652435,0 -101.091410943141,25.2284891662566,0 -101.091410824513,25.2284970873143,0 -101.085988484505,25.2285586325824,0 -101.085992233475,25.2286336905978,0 -101.085996202783,25.2287029705629,0 -101.091412808695,25.2286414898649,0 -101.091406610389,25.2298393215186,0 -101.091526224506,25.2298401038361,0 -101.0915378971,25.2275840573556,0 -101.091424519534,25.2275826524722,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+			</Folder>
+		</Folder>
+		<Folder id="5AC928592D000001">
+			<name>Bustamante</name>
+			<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+			<Folder id="5AC928592D000002">
+				<name>Bustamante</name>
+				<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+				<Placemark id="5AC928592D000003">
+					<name>\pxqc;ESTACIÓN BUSTAMANTE
+SUP 9,193.552 M2</name>
+					<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+					<Point>
+						<coordinates>-100.442054,26.500616,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="5AC928592D000004">
+					<name>\pxqc;ESTACIÓN BUSTAMANTE
+SUP 9,193.552 M2</name>
+					<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+					<Point>
+						<coordinates>-100.442054,26.500616,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="5AC928592E000005">
+					<name>kml_3</name>
+					<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-100.441337,26.50066,0 -100.441328,26.500682,0 -100.441328,26.500696,0 -100.441333,26.500721,0 -100.441342,26.50074,0 -100.441356,26.500754,0 -100.44137,26.500762,0 -100.441575,26.500831,0 -100.441774,26.500899,0 -100.441846,26.500925,0 -100.441944,26.500959,0 -100.442049,26.500994,0 -100.442245,26.501071,0 -100.44237,26.501193,0 -100.442543,26.501446,0 -100.442567,26.501481,0 -100.442523,26.501501,0 -100.442798,26.501959,0 -100.44304,26.501841,0 -100.442043,26.500154,0 -100.442033,26.500158,0 -100.441937,26.500206,0 -100.441601,26.500433,0 -100.441337,26.50066,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+			</Folder>
+		</Folder>
+		<Folder id="5AC928A9A4000001">
+			<name>Garcia</name>
+			<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+			<Folder id="5AC928A9A4000002">
+				<name>Garcia</name>
+				<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+				<Placemark id="5AC928A9A4000003">
+					<name>kml_1</name>
+					<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-100.584479,25.775561,0 -100.584459,25.775536,0 -100.58444,25.77551,0 -100.584423,25.775483,0 -100.584406,25.775456,0 -100.58439,25.77542800000001,0 -100.584376,25.7754,0 -100.584362,25.775372,0 -100.58435,25.775343,0 -100.584338,25.775313,0 -100.584328,25.775284,0 -100.584319,25.775254,0 -100.584311,25.775223,0 -100.584304,25.77519300000001,0 -100.584299,25.775162,0 -100.584294,25.775131,0 -100.584291,25.775101,0 -100.584289,25.77506899999999,0 -100.584288,25.775038,0 -100.584289,25.775007,0 -100.58429,25.774976,0 -100.584293,25.774945,0 -100.584297,25.774914,0 -100.584302,25.774884,0 -100.584308,25.774853,0 -100.584315,25.774823,0 -100.584324,25.774793,0 -100.585661,25.770366,0 -100.585594,25.77034099999999,0 -100.585551,25.770165,0 -100.585528,25.770241,0 -100.584163,25.774778,0 -100.584153,25.774812,0 -100.584145,25.774847,0 -100.584138,25.774882,0 -100.584132,25.774917,0 -100.584128,25.774952,0 -100.584125,25.774987,0 -100.584123,25.775023,0 -100.584122,25.775058,0 -100.584123,25.775094,0 -100.584126,25.775129,0 -100.584129,25.775164,0 -100.584134,25.77520000000001,0 -100.584141,25.775235,0 -100.584148,25.77527,0 -100.584157,25.775304,0 -100.584167,25.775338,0 -100.584179,25.775372,0 -100.584192,25.775406,0 -100.584206,25.775439,0 -100.584221,25.775472,0 -100.584238,25.775504,0 -100.584255,25.775536,0 -100.584274,25.775567,0 -100.584294,25.775597,0 -100.584315,25.775627,0 -100.584338,25.77565600000001,0 -100.586004,25.777757,0 -100.586008,25.777762,0 -100.586012,25.777767,0 -100.586015,25.777772,0 -100.586019,25.777778,0 -100.586022,25.777784,0 -100.586025,25.777789,0 -100.586027,25.777795,0 -100.58603,25.777801,0 -100.586032,25.777807,0 -100.586034,25.777813,0 -100.586036,25.777819,0 -100.586037,25.777825,0 -100.586039,25.777831,0 -100.586051,25.77782699999999,0 -100.586062,25.777824,0 -100.586073,25.777821,0 -100.586096,25.777818,0 -100.586119,25.777819,0 -100.586153,25.777825,0 -100.586173,25.777831,0 -100.586219,25.777857,0 -100.586228,25.777864,0 -100.586245,25.777879,0 -100.586259,25.777896,0 -100.586265,25.777905,0 -100.586313,25.777993,0 -100.586337,25.778023,0 -100.586362,25.778047,0 -100.586391,25.77807200000001,0 -100.586422,25.778095,0 -100.586463,25.778122,0 -100.586502,25.778142,0 -100.586538,25.778162,0 -100.586573,25.778182,0 -100.586581,25.778187,0 -100.584479,25.775561,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark id="5AC928A9A4000004">
+					<name>kml_2</name>
+					<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-100.585551,25.770165,0 -100.585594,25.77034099999999,0 -100.585661,25.770366,0 -100.585686,25.770281,0 -100.585927,25.769489,0 -100.585933,25.769474,0 -100.585939,25.769459,0 -100.585946,25.769445,0 -100.585953,25.769431,0 -100.585961,25.769417,0 -100.58597,25.769403,0 -100.585979,25.76939,0 -100.585988,25.769377,0 -100.585998,25.769364,0 -100.586009,25.769352,0 -100.586019,25.769339,0 -100.585863,25.769281,0 -100.585849,25.769298,0 -100.585836,25.769316,0 -100.585824,25.769334,0 -100.585813,25.769352,0 -100.585802,25.769371,0 -100.585792,25.76939,0 -100.585783,25.769409,0 -100.585775,25.769429,0 -100.585767,25.769449,0 -100.585551,25.770165,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark id="5AC928A9A4000005">
+					<name>kml_3</name>
+					<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-100.586019,25.769339,0 -100.586029,25.769329,0 -100.586039,25.769319,0 -100.586049,25.769309,0 -100.58606,25.7693,0 -100.585899,25.76924,0 -100.585886,25.769253,0 -100.585874,25.769267,0 -100.585863,25.769281,0 -100.586019,25.769339,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark id="5AC928A9A4000006">
+					<name>kml_4</name>
+					<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-100.591178,25.770904,0 -100.591319,25.770956,0 -100.591387,25.770847,0 -100.591219,25.770796,0 -100.591178,25.770904,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark id="5AC928A9A5000007">
+					<name>kml_5</name>
+					<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-100.591026,25.770847,0 -100.591732,25.769529,0 -100.591728,25.769429,0 -100.589866,25.769512,0 -100.588646,25.769071,0 -100.588631,25.769094,0 -100.588174,25.768929,0 -100.588167,25.768946,0 -100.587851,25.768832,0 -100.587833,25.768825,0 -100.587814,25.768819,0 -100.587795,25.768814,0 -100.587776,25.768809,0 -100.587757,25.768805,0 -100.587738,25.768802,0 -100.587718,25.768799,0 -100.587699,25.768797,0 -100.587679,25.768795,0 -100.58766,25.768794,0 -100.58764,25.768793,0 -100.58762,25.768793,0 -100.5876,25.768794,0 -100.587581,25.768795,0 -100.587561,25.768796,0 -100.587541,25.768799,0 -100.586571,25.768925,0 -100.586555,25.768925,0 -100.586538,25.768925,0 -100.586521,25.768924,0 -100.586505,25.768922,0 -100.586488,25.76892,0 -100.586472,25.768917,0 -100.586456,25.768914,0 -100.58644,25.768911,0 -100.586423,25.768907,0 -100.586408,25.768902,0 -100.586392,25.768897,0 -100.586376,25.768892,0 -100.585108,25.768422,0 -100.585055,25.768539,0 -100.586335,25.769013,0 -100.586325,25.769034,0 -100.586304,25.769037,0 -100.586283,25.76904,0 -100.586262,25.769044,0 -100.586241,25.769049,0 -100.586221,25.769054,0 -100.5862,25.769059,0 -100.586466,25.769158,0 -100.586663,25.769131,0 -100.58756,25.769012,0 -100.587693,25.768988,0 -100.5877,25.768987,0 -100.587706,25.768987,0 -100.587713,25.76898600000001,0 -100.587719,25.76898600000001,0 -100.587726,25.76898600000001,0 -100.587732,25.76898600000001,0 -100.587739,25.768987,0 -100.587746,25.768987,0 -100.587752,25.768988,0 -100.587759,25.768989,0 -100.587765,25.76899,0 -100.587771,25.768992,0 -100.587778,25.768993,0 -100.587784,25.768995,0 -100.58779,25.768997,0 -100.587796,25.768999,0 -100.588038,25.769087,0 -100.588502,25.769286,0 -100.588165,25.769786,0 -100.591026,25.770847,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark id="5AC928A9A5000008">
+					<name>kml_6</name>
+					<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-100.591025,25.770847,0 -100.591178,25.770904,0 -100.591219,25.770796,0 -100.591387,25.770847,0 -100.591423,25.77079,0 -100.591468,25.770716,0 -100.591549,25.770577,0 -100.591569,25.770548,0 -100.591575,25.770526,0 -100.591601,25.770473,0 -100.591608,25.77046,0 -100.591612,25.770423,0 -100.591626,25.770371,0 -100.591638,25.770329,0 -100.591645,25.770299,0 -100.591654,25.77024,0 -100.591657,25.770177,0 -100.591672,25.770065,0 -100.591682,25.769994,0 -100.591693,25.769908,0 -100.591707,25.76982,0 -100.591737,25.769609,0 -100.591743,25.769581,0 -100.591755,25.769528,0 -100.591775,25.769465,0 -100.591786,25.769434,0 -100.591807,25.76939,0 -100.591025,25.770847,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark id="5AC928A9A5000009">
+					<name>kml_7</name>
+					<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-100.591732,25.769529,0 -100.591807,25.76939,0 -100.5918,25.769388,0 -100.591728,25.769429,0 -100.591732,25.769529,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark id="5AC928A9A500000A">
+					<name>\pxqc;OZIEL TAMEZ GUAJARDO
+SUP 1,907.078 M2</name>
+					<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+					<Point>
+						<coordinates>-100.587034,25.77131,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="5AC928A9A500000B">
+					<name>\pxqc;BANCO DEL BAJIO
+SUP 95.989 M2</name>
+					<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+					<Point>
+						<coordinates>-100.587452,25.770019,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="5AC928A9A500000C">
+					<name>\pxqc;JOSE LUIS TREVIÑO GONZALEZ
+SUP 42,444.698 m2</name>
+					<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+					<Point>
+						<coordinates>-100.59067,25.770445,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="5AC928A9A500000D">
+					<name>\pxqc;DESCONOCIDO 2
+SUP 3,690.702 M2</name>
+					<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+					<Point>
+						<coordinates>-100.592703,25.771188,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="5AC928A9A500000E">
+					<name>\pxqc;DESCONOCIDO 1
+SUP 216.453 M2</name>
+					<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+					<Point>
+						<coordinates>-100.5927,25.771676,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="5AC928A9A500000F">
+					<name>\pxqc;DESCONOCIDO 4
+SUP 15,873.835  M2</name>
+					<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+					<Point>
+						<coordinates>-100.586272,25.773644,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="5AC928A9A5000010">
+					<name>\pxqc;DESCONOCIDO 3
+SUP 46.948 M2</name>
+					<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+					<Point>
+						<coordinates>-100.593122,25.77013,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+		</Folder>
+		<Folder id="5AC929200F000001">
+			<name>Nuevo Laredo</name>
+			<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+			<Folder id="5AC929200F000002">
+				<name>Nuevo Laredo</name>
+				<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+				<Placemark id="5AC929200F000003">
+					<name>kml_1</name>
+					<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-99.517713,27.467052,0 -99.51777199999998,27.46706,0 -99.517771,27.466861,0 -99.51771500000001,27.466861,0 -99.517713,27.467052,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark id="5AC929200F000004">
+					<name>kml_2</name>
+					<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-99.51777199999998,27.46706,0 -99.51876900000001,27.467162,0 -99.51878499999999,27.466861,0 -99.517771,27.466861,0 -99.51777199999998,27.46706,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark id="5AC929200F000005">
+					<name>kml_3</name>
+					<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-99.51775000000001,27.466314,0 -99.51807999999998,27.466321,0 -99.51808800000001,27.466054,0 -99.517757,27.466042,0 -99.51775000000001,27.466314,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark id="5AC929200F000006">
+					<name>kml_4</name>
+					<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-99.51876900000001,27.467162,0 -99.51777199999998,27.46706,0 -99.517713,27.467052,0 -99.51771100000002,27.467192,0 -99.52043,27.467427,0 -99.52045200000001,27.46699,0 -99.52036899999999,27.466969,0 -99.518799,27.466562,0 -99.51878499999999,27.466861,0 -99.51876900000001,27.467162,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark id="5AC929200F000007">
+					<name>kml_5</name>
+					<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-99.52077800000001,27.46678,0 -99.52323800000001,27.467419,0 -99.523286,27.46743,0 -99.52333400000002,27.46744,0 -99.523383,27.46744899999999,0 -99.523431,27.467456,0 -99.52348000000001,27.467461,0 -99.523529,27.46746600000001,0 -99.523579,27.467468,0 -99.523628,27.467469,0 -99.52367699999999,27.467469,0 -99.52372699999999,27.467467,0 -99.523776,27.467463,0 -99.52382499999999,27.467458,0 -99.52387400000001,27.467451,0 -99.523922,27.467443,0 -99.52397000000001,27.467434,0 -99.524018,27.467423,0 -99.524066,27.46741,0 -99.524112,27.467396,0 -99.52415899999998,27.467381,0 -99.524204,27.467364,0 -99.524249,27.46734500000001,0 -99.524293,27.467326,0 -99.524337,27.467305,0 -99.52437899999998,27.467282,0 -99.524421,27.467259,0 -99.524462,27.467234,0 -99.52450100000001,27.467208,0 -99.52454,27.46718,0 -99.52457800000001,27.467152,0 -99.52461400000001,27.467122,0 -99.52464900000001,27.467091,0 -99.524683,27.46706,0 -99.524716,27.467027,0 -99.524748,27.466993,0 -99.52477800000001,27.466958,0 -99.52480699999998,27.466922,0 -99.52481,27.466708,0 -99.524582,27.466467,0 -99.524565,27.466497,0 -99.524547,27.466527,0 -99.52452700000001,27.466556,0 -99.524507,27.466584,0 -99.524485,27.466612,0 -99.524463,27.466639,0 -99.524439,27.466665,0 -99.52441399999998,27.466691,0 -99.524389,27.466715,0 -99.524362,27.466739,0 -99.52433499999998,27.466763,0 -99.524306,27.466785,0 -99.524277,27.46680599999999,0 -99.524247,27.466827,0 -99.52421699999999,27.466847,0 -99.524185,27.466865,0 -99.524153,27.466883,0 -99.52412,27.4669,0 -99.52408699999999,27.466916,0 -99.52405299999999,27.46693,0 -99.524018,27.46694400000001,0 -99.523983,27.466956,0 -99.523948,27.466968,0 -99.523912,27.466978,0 -99.523876,27.466988,0 -99.523839,27.466996,0 -99.523802,27.467003,0 -99.523765,27.467009,0 -99.52372699999999,27.467014,0 -99.52368999999999,27.467018,0 -99.52365200000001,27.46702,0 -99.52361399999999,27.467022,0 -99.523577,27.467022,0 -99.52353899999999,27.467021,0 -99.52350100000001,27.467019,0 -99.523464,27.467016,0 -99.52342599999999,27.467011,0 -99.52338899999999,27.467006,0 -99.523352,27.466999,0 -99.523315,27.466991,0 -99.52327799999999,27.466983,0 -99.52218600000002,27.46669899999999,0 -99.521422,27.466439,0 -99.520931,27.466311,0 -99.51809299999998,27.465575,0 -99.51808800000001,27.46605,0 -99.51807999999998,27.466321,0 -99.518079,27.466377,0 -99.51876799999999,27.466554,0 -99.518799,27.466562,0 -99.52036899999999,27.466969,0 -99.52045200000001,27.46699,0 -99.520689,27.467053,0 -99.52077800000001,27.46678,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark id="5AC929200F000008">
+					<name>\L{\fArial|b1|i0|c0|p34;\LDESCONOCIDO 4
+\fArial|b0|i0|c0|p34;SUP. \A1;\C7;975.724\A0;\C256; m2  }</name>
+					<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+					<Point>
+						<coordinates>-99.518282,27.466066,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="5AC929200F000009">
+					<name>\L{\fArial|b1|i0|c0|p34;\LDESCONOCIDO 3
+\fArial|b0|i0|c0|p34;SUP. \A1;\C7;123.474\A0;\C256; m2  }</name>
+					<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+					<Point>
+						<coordinates>-99.518072,27.466823,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="5AC929200F00000A">
+					<name>\L{\fArial|b1|i0|c0|p34;\LDESCONOCIDO 2
+\fArial|b0|i0|c0|p34;SUP. \A1;\C7;2,754.634\A0;\C256; m2  }</name>
+					<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+					<Point>
+						<coordinates>-99.51866699999999,27.466852,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="5AC929200F00000B">
+					<name>{\fArial|b1|i0|c0|p34;DESCONOCIDO 1
+}SUP. {\A1;\C7;12,102.965} m2</name>
+					<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+					<Point>
+						<coordinates>-99.51908899999999,27.467332,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="5AC929200F00000C">
+					<name>{\fArial|b1|i0|c0|p34;KANSAS CITY
+}SUP. {\A1;\C7;44,616.036} m2</name>
+					<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+					<Point>
+						<coordinates>-99.52025399999999,27.466669,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder id="5AC92A4CE6000001">
+				<name>Ramos Arizpe</name>
+				<open>1</open>
+				<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+				<Folder id="5AC92A4CE6000002">
+					<name>Ramos Arizpe</name>
+					<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+					<Placemark id="5AC92A4CE6000003">
+						<name>kml_1</name>
+						<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										-100.952572,25.544364,0 -100.952373,25.544273,0 -100.952319,25.544503,0 -100.95228,25.544682,0 -100.952296,25.544658,0 -100.952314,25.544629,0 -100.952364,25.54458,0 -100.952439,25.544507,0 -100.952455,25.544488,0 -100.952508,25.544427,0 -100.952572,25.544364,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</Placemark>
+					<Placemark id="5AC92A4CE6000004">
+						<name>kml_2</name>
+						<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										-100.952257,25.542915,0 -100.952206,25.542904,0 -100.952081,25.543161,0 -100.952193,25.543192,0 -100.952211,25.543114,0 -100.952228,25.543033,0 -100.952257,25.542915,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</Placemark>
+					<Placemark id="5AC92A4CE6000005">
+						<name>kml_3</name>
+						<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										-100.951931,25.54321,0 -100.951719,25.543156,0 -100.951694,25.543237,0 -100.951908,25.543291,0 -100.951931,25.54321,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</Placemark>
+					<Placemark id="5AC92A4CE6000006">
+						<name>kml_4</name>
+						<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										-100.951884,25.543372,0 -100.951669,25.54331699999999,0 -100.951644,25.543398,0 -100.95186,25.543452,0 -100.951884,25.543372,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</Placemark>
+					<Placemark id="5AC92A4CE6000007">
+						<name>kml_5</name>
+						<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										-100.951908,25.543291,0 -100.951694,25.543237,0 -100.951669,25.54331699999999,0 -100.951884,25.543372,0 -100.951908,25.543291,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</Placemark>
+					<Placemark id="5AC92A4CE6000008">
+						<name>kml_6</name>
+						<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										-100.952097,25.543428,0 -100.951883,25.543374,0 -100.95186,25.543452,0 -100.952074,25.543509,0 -100.952097,25.543428,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</Placemark>
+					<Placemark id="5AC92A4CE6000009">
+						<name>kml_7</name>
+						<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										-100.952144,25.543262,0 -100.952036,25.543237,0 -100.95199,25.543401,0 -100.952097,25.543428,0 -100.952144,25.543262,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</Placemark>
+					<Placemark id="5AC92A4CE600000A">
+						<name>kml_8</name>
+						<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										-100.952116,25.543524,0 -100.952119,25.543511,0 -100.952129,25.543466,0 -100.952139,25.543422,0 -100.952149,25.543378,0 -100.95215,25.543373,0 -100.952161,25.543332,0 -100.95217,25.54329,0 -100.952174,25.54327,0 -100.952143,25.543264,0 -100.952097,25.543428,0 -100.952074,25.543509,0 -100.952073,25.543513,0 -100.952116,25.543524,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</Placemark>
+					<Placemark id="5AC92A4CE600000B">
+						<name>kml_9</name>
+						<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										-100.952459,25.543808,0 -100.952448,25.543854,0 -100.95248,25.543884,0 -100.952777,25.544166,0 -100.952785,25.54416,0 -100.952813,25.544134,0 -100.952825,25.54412,0 -100.952851,25.544092,0 -100.952866,25.544075,0 -100.952872,25.544068,0 -100.952891,25.544046,0 -100.952948,25.543965,0 -100.95295,25.543919,0 -100.95295,25.543903,0 -100.952944,25.543884,0 -100.952938,25.543852,0 -100.952916,25.543775,0 -100.952886,25.543706,0 -100.952833,25.543586,0 -100.95256,25.543534,0 -100.952537,25.54353,0 -100.9525,25.543664,0 -100.952459,25.543808,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</Placemark>
+					<Placemark id="5AC92A4CE600000C">
+						<name>kml_10</name>
+						<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										-100.95248,25.543884,0 -100.952373,25.544273,0 -100.952572,25.544364,0 -100.952777,25.544166,0 -100.95248,25.543884,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</Placemark>
+					<Placemark id="5AC92A4CE600000D">
+						<name>kml_11</name>
+						<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										-100.95228,25.544682,0 -100.952319,25.544503,0 -100.952373,25.544273,0 -100.95248,25.543884,0 -100.952448,25.543854,0 -100.952345,25.544302,0 -100.952283,25.544577,0 -100.952261,25.544666,0 -100.952259,25.544678,0 -100.95228,25.544682,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</Placemark>
+					<Placemark id="5AC92A4CE600000E">
+						<name>kml_12</name>
+						<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										-100.952666,25.544592,0 -100.9526,25.54465,0 -100.953797,25.546005,0 -100.953855,25.545951,0 -100.952666,25.544592,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</Placemark>
+					<Placemark id="5AC92A4CE600000F">
+						<name>kml_13</name>
+						<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										-100.953797,25.546005,0 -100.9526,25.54465,0 -100.952546,25.54469599999999,0 -100.952432,25.545014,0 -100.953509,25.546231,0 -100.953797,25.546005,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</Placemark>
+					<Placemark id="5AC92A4CE7000010">
+						<name>\pxa0.66667,sm1.07917;{\fArial|b1|i0|c0|p34;\H0.91667x;\C250;\c2236704;DESCONOCIDO 5}</name>
+						<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+						<Point>
+							<coordinates>-100.952233,25.544075,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark id="5AC92A4CE7000011">
+						<name>{\fArial|b1|i0|c0|p34;\H0.91667x;\C250;\c2236704;ANGELINA GUTIERREZ ZERTUCHE}</name>
+						<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+						<Point>
+							<coordinates>-100.95169,25.54369,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark id="5AC92A4CE7000012">
+						<name>{\fArial|b1|i0|c0|p34;\H0.91667x;\C250;\c2236704;DORAELIA GUTIERREZ PADILLA}</name>
+						<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+						<Point>
+							<coordinates>-100.951615,25.54322000000001,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark id="5AC92A4CE7000013">
+						<name>{\fArial|b1|i0|c0|p34;\H0.91667x;\C250;\c2236704;OLGA GUTIERREZ SAUCEDO}</name>
+						<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+						<Point>
+							<coordinates>-100.951912,25.542623,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark id="5AC92A4CE7000014">
+						<name>\pxa0.66667,sm1.07917;{\fArial|b1|i0|c0|p34;\H0.91667x;\C250;\c2236704;BLAS GARCIA GUTIERREZ}</name>
+						<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+						<Point>
+							<coordinates>-100.952546,25.542983,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark id="5AC92A4CE7000015">
+						<name>{\fArial|b1|i0|c0|p34;\H0.91667x;\C250;\c2236704;TOMAS GUTIERREZ PADILLA}</name>
+						<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+						<Point>
+							<coordinates>-100.95207,25.543591,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark id="5AC92A4CE7000016">
+						<name>\pxa0.66667,sm1.07917;{\fArial|b1|i0|c0|p34;\H0.91667x;\C250;\c2236704;DESCONOCIDO 2}</name>
+						<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+						<Point>
+							<coordinates>-100.952351,25.543545,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark id="5AC92A4CE7000017">
+						<name>\pxa0.66667,sm1.07917;{\fArial|b1|i0|c0|p34;\H0.91667x;\C250;\c2236704;DESCONOCIDO 1}</name>
+						<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+						<Point>
+							<coordinates>-100.952221,25.542463,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark id="5AC92A4CE7000018">
+						<name>ROSENDO FLORES 1</name>
+						<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+						<Point>
+							<coordinates>-100.952155,25.544494,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark id="5AC92A4CE7000019">
+						<name>\pxa0.66667,sm1.07917;{\fArial|b1|i0|c0|p34;\H0.91667x;\C250;\c2236704;DESCONOCIDO 3}</name>
+						<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+						<Point>
+							<coordinates>-100.953062,25.544255,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark id="5AC92A4CE700001A">
+						<name>\pxa0.66667,sm1.07917;{\fArial|b1|i0|c0|p34;\H0.91667x;\C250;\c2236704;PARQUE}</name>
+						<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+						<Point>
+							<coordinates>-100.953301,25.543612,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark id="5AC92A4CE700001B">
+						<name>ROSENDO FLORES</name>
+						<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+						<Point>
+							<coordinates>-100.952855,25.546161,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark id="5AC92A4CE700001C">
+						<name>\pxa0.66667,sm1.07917;{\fArial|b1|i0|c0|p34;\H0.91667x;\C250;\c2236704;DESCONOCIDO 4}</name>
+						<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+						<Point>
+							<coordinates>-100.953864,25.5448,0</coordinates>
+						</Point>
+					</Placemark>
+				</Folder>
+			</Folder>
+			<Folder id="5AC92A86B5000001">
+				<name>Saltillo</name>
+				<open>1</open>
+				<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+				<Folder id="5AC92A86B5000002">
+					<name>Saltillo</name>
+					<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+					<Placemark id="5AC92A86B5000003">
+						<name>kml_1</name>
+						<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										-101.013663,25.420811,0 -101.013714,25.420743,0 -101.014764,25.419161,0 -101.014821,25.419065,0 -101.014895,25.41895,0 -101.014923,25.418946,0 -101.014971,25.418936,0 -101.015012,25.418929,0 -101.015071,25.418925,0 -101.015077,25.418942,0 -101.015301,25.418931,0 -101.015296,25.418868,0 -101.015294,25.418825,0 -101.015292,25.418782,0 -101.015291,25.418739,0 -101.015275,25.418473,0 -101.015275,25.418427,0 -101.015275,25.418385,0 -101.015274,25.41827,0 -101.015275,25.418255,0 -101.015277,25.418235,0 -101.015258,25.418237,0 -101.015142,25.418426,0 -101.014996,25.418694,0 -101.014914,25.41885,0 -101.014681,25.419203,0 -101.014126,25.420044,0 -101.013697,25.420755,0 -101.013663,25.420811,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</Placemark>
+					<Placemark id="5AC92A86B5000004">
+						<name>kml_2</name>
+						<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										-101.015507,25.422339,0 -101.015488,25.422031,0 -101.015457,25.421308,0 -101.015454,25.421268,0 -101.015451,25.421227,0 -101.015447,25.421184,0 -101.015443,25.421139,0 -101.015439,25.421094,0 -101.015435,25.421047,0 -101.015411,25.420685,0 -101.015409,25.42064,0 -101.015407,25.420597,0 -101.015405,25.420553,0 -101.015403,25.420509,0 -101.015401,25.420466,0 -101.015398,25.420422,0 -101.015396,25.420378,0 -101.015394,25.420335,0 -101.015392,25.420291,0 -101.01539,25.420247,0 -101.015387,25.420204,0 -101.015385,25.420162,0 -101.015382,25.42012,0 -101.015379,25.420077,0 -101.015376,25.420034,0 -101.015373,25.41999,0 -101.01537,25.419947,0 -101.015367,25.419904,0 -101.01536,25.419821,0 -101.015357,25.419777,0 -101.015354,25.419734,0 -101.015351,25.419691,0 -101.015348,25.419648,0 -101.015345,25.419605,0 -101.015342,25.419562,0 -101.015338,25.419517,0 -101.015335,25.419472,0 -101.015332,25.419427,0 -101.015328,25.41938,0 -101.015319,25.41918,0 -101.015315,25.419136,0 -101.015312,25.41909100000001,0 -101.015309,25.419046,0 -101.015301,25.418931,0 -101.015077,25.418942,0 -101.015071,25.418925,0 -101.015012,25.418929,0 -101.014971,25.418936,0 -101.014923,25.418946,0 -101.014895,25.41895,0 -101.014821,25.419065,0 -101.014764,25.419161,0 -101.013714,25.420743,0 -101.013663,25.420811,0 -101.013612,25.420879,0 -101.013463,25.421115,0 -101.01345,25.421143,0 -101.01339,25.421232,0 -101.013373,25.421258,0 -101.013437,25.421289,0 -101.013545,25.421342,0 -101.013783,25.421328,0 -101.013932,25.421323,0 -101.01405,25.42131699999999,0 -101.014228,25.421308,0 -101.014377,25.4213,0 -101.01453,25.421292,0 -101.014615,25.421287,0 -101.014765,25.42128,0 -101.014884,25.421273,0 -101.014973,25.421269,0 -101.014982,25.421287,0 -101.01499,25.42142,0 -101.014999,25.42158,0 -101.015008,25.421717,0 -101.015017,25.421801,0 -101.015022,25.421941,0 -101.015031,25.422074,0 -101.015034,25.422113,0 -101.015201,25.422107,0 -101.015347,25.421956,0 -101.015424,25.422344,0 -101.015507,25.422339,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</Placemark>
+					<Placemark id="5AC92A86B5000005">
+						<name>kml_3</name>
+						<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										-101.015424,25.422344,0 -101.015347,25.421956,0 -101.015201,25.422107,0 -101.015196,25.422131,0 -101.015206,25.422363,0 -101.015424,25.422344,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</Placemark>
+					<Placemark id="5AC92A86B5000006">
+						<name>\pxa0.66667,sm1.07917;{\fArial|b1|i0|c0|p34;\H0.91667x;\C250;\c2236704;KANSAS CITY SOUTHERN}</name>
+						<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+						<Point>
+							<coordinates>-101.014881,25.419165,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark id="5AC92A86B5000007">
+						<name>DESCONOCIDO</name>
+						<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+						<Point>
+							<coordinates>-101.015178,25.418313,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark id="5AC92A86B5000008">
+						<name>DESCONOCIDO</name>
+						<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+						<Point>
+							<coordinates>-101.015337,25.422239,0</coordinates>
+						</Point>
+					</Placemark>
+				</Folder>
+			</Folder>
+			<Folder id="5AC92AC76A000001">
+				<name>Ramos Arizpe</name>
+				<open>1</open>
+				<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+				<Folder id="5AC92AC76A000002">
+					<name>Ramos Arizpe</name>
+					<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+					<Placemark id="5AC92AC76A000003">
+						<name>kml_1</name>
+						<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										-100.952572,25.544364,0 -100.952373,25.544273,0 -100.952319,25.544503,0 -100.95228,25.544682,0 -100.952296,25.544658,0 -100.952314,25.544629,0 -100.952364,25.54458,0 -100.952439,25.544507,0 -100.952455,25.544488,0 -100.952508,25.544427,0 -100.952572,25.544364,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</Placemark>
+					<Placemark id="5AC92AC76A000004">
+						<name>kml_2</name>
+						<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										-100.952257,25.542915,0 -100.952206,25.542904,0 -100.952081,25.543161,0 -100.952193,25.543192,0 -100.952211,25.543114,0 -100.952228,25.543033,0 -100.952257,25.542915,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</Placemark>
+					<Placemark id="5AC92AC76A000005">
+						<name>kml_3</name>
+						<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										-100.951931,25.54321,0 -100.951719,25.543156,0 -100.951694,25.543237,0 -100.951908,25.543291,0 -100.951931,25.54321,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</Placemark>
+					<Placemark id="5AC92AC76A000006">
+						<name>kml_4</name>
+						<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										-100.951884,25.543372,0 -100.951669,25.54331699999999,0 -100.951644,25.543398,0 -100.95186,25.543452,0 -100.951884,25.543372,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</Placemark>
+					<Placemark id="5AC92AC76A000007">
+						<name>kml_5</name>
+						<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										-100.951908,25.543291,0 -100.951694,25.543237,0 -100.951669,25.54331699999999,0 -100.951884,25.543372,0 -100.951908,25.543291,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</Placemark>
+					<Placemark id="5AC92AC76A000008">
+						<name>kml_6</name>
+						<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										-100.952097,25.543428,0 -100.951883,25.543374,0 -100.95186,25.543452,0 -100.952074,25.543509,0 -100.952097,25.543428,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</Placemark>
+					<Placemark id="5AC92AC76A000009">
+						<name>kml_7</name>
+						<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										-100.952144,25.543262,0 -100.952036,25.543237,0 -100.95199,25.543401,0 -100.952097,25.543428,0 -100.952144,25.543262,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</Placemark>
+					<Placemark id="5AC92AC76A00000A">
+						<name>kml_8</name>
+						<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										-100.952116,25.543524,0 -100.952119,25.543511,0 -100.952129,25.543466,0 -100.952139,25.543422,0 -100.952149,25.543378,0 -100.95215,25.543373,0 -100.952161,25.543332,0 -100.95217,25.54329,0 -100.952174,25.54327,0 -100.952143,25.543264,0 -100.952097,25.543428,0 -100.952074,25.543509,0 -100.952073,25.543513,0 -100.952116,25.543524,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</Placemark>
+					<Placemark id="5AC92AC76A00000B">
+						<name>kml_9</name>
+						<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										-100.952459,25.543808,0 -100.952448,25.543854,0 -100.95248,25.543884,0 -100.952777,25.544166,0 -100.952785,25.54416,0 -100.952813,25.544134,0 -100.952825,25.54412,0 -100.952851,25.544092,0 -100.952866,25.544075,0 -100.952872,25.544068,0 -100.952891,25.544046,0 -100.952948,25.543965,0 -100.95295,25.543919,0 -100.95295,25.543903,0 -100.952944,25.543884,0 -100.952938,25.543852,0 -100.952916,25.543775,0 -100.952886,25.543706,0 -100.952833,25.543586,0 -100.95256,25.543534,0 -100.952537,25.54353,0 -100.9525,25.543664,0 -100.952459,25.543808,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</Placemark>
+					<Placemark id="5AC92AC76A00000C">
+						<name>kml_10</name>
+						<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										-100.95248,25.543884,0 -100.952373,25.544273,0 -100.952572,25.544364,0 -100.952777,25.544166,0 -100.95248,25.543884,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</Placemark>
+					<Placemark id="5AC92AC76A00000D">
+						<name>kml_11</name>
+						<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										-100.95228,25.544682,0 -100.952319,25.544503,0 -100.952373,25.544273,0 -100.95248,25.543884,0 -100.952448,25.543854,0 -100.952345,25.544302,0 -100.952283,25.544577,0 -100.952261,25.544666,0 -100.952259,25.544678,0 -100.95228,25.544682,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</Placemark>
+					<Placemark id="5AC92AC76A00000E">
+						<name>kml_12</name>
+						<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										-100.952666,25.544592,0 -100.9526,25.54465,0 -100.953797,25.546005,0 -100.953855,25.545951,0 -100.952666,25.544592,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</Placemark>
+					<Placemark id="5AC92AC76A00000F">
+						<name>kml_13</name>
+						<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+						<Polygon>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										-100.953797,25.546005,0 -100.9526,25.54465,0 -100.952546,25.54469599999999,0 -100.952432,25.545014,0 -100.953509,25.546231,0 -100.953797,25.546005,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</Placemark>
+					<Placemark id="5AC92AC76A000010">
+						<name>\pxa0.66667,sm1.07917;{\fArial|b1|i0|c0|p34;\H0.91667x;\C250;\c2236704;DESCONOCIDO 5}</name>
+						<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+						<Point>
+							<coordinates>-100.952233,25.544075,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark id="5AC92AC76A000011">
+						<name>{\fArial|b1|i0|c0|p34;\H0.91667x;\C250;\c2236704;ANGELINA GUTIERREZ ZERTUCHE}</name>
+						<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+						<Point>
+							<coordinates>-100.95169,25.54369,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark id="5AC92AC76A000012">
+						<name>{\fArial|b1|i0|c0|p34;\H0.91667x;\C250;\c2236704;DORAELIA GUTIERREZ PADILLA}</name>
+						<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+						<Point>
+							<coordinates>-100.951615,25.54322000000001,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark id="5AC92AC76A000013">
+						<name>{\fArial|b1|i0|c0|p34;\H0.91667x;\C250;\c2236704;OLGA GUTIERREZ SAUCEDO}</name>
+						<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+						<Point>
+							<coordinates>-100.951912,25.542623,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark id="5AC92AC76A000014">
+						<name>\pxa0.66667,sm1.07917;{\fArial|b1|i0|c0|p34;\H0.91667x;\C250;\c2236704;BLAS GARCIA GUTIERREZ}</name>
+						<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+						<Point>
+							<coordinates>-100.952546,25.542983,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark id="5AC92AC76A000015">
+						<name>{\fArial|b1|i0|c0|p34;\H0.91667x;\C250;\c2236704;TOMAS GUTIERREZ PADILLA}</name>
+						<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+						<Point>
+							<coordinates>-100.95207,25.543591,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark id="5AC92AC76A000016">
+						<name>\pxa0.66667,sm1.07917;{\fArial|b1|i0|c0|p34;\H0.91667x;\C250;\c2236704;DESCONOCIDO 2}</name>
+						<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+						<Point>
+							<coordinates>-100.952351,25.543545,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark id="5AC92AC76A000017">
+						<name>\pxa0.66667,sm1.07917;{\fArial|b1|i0|c0|p34;\H0.91667x;\C250;\c2236704;DESCONOCIDO 1}</name>
+						<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+						<Point>
+							<coordinates>-100.952221,25.542463,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark id="5AC92AC76A000018">
+						<name>ROSENDO FLORES 1</name>
+						<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+						<Point>
+							<coordinates>-100.952155,25.544494,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark id="5AC92AC76A000019">
+						<name>\pxa0.66667,sm1.07917;{\fArial|b1|i0|c0|p34;\H0.91667x;\C250;\c2236704;DESCONOCIDO 3}</name>
+						<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+						<Point>
+							<coordinates>-100.953062,25.544255,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark id="5AC92AC76B00001A">
+						<name>\pxa0.66667,sm1.07917;{\fArial|b1|i0|c0|p34;\H0.91667x;\C250;\c2236704;PARQUE}</name>
+						<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+						<Point>
+							<coordinates>-100.953301,25.543612,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark id="5AC92AC76B00001B">
+						<name>ROSENDO FLORES</name>
+						<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+						<Point>
+							<coordinates>-100.952855,25.546161,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark id="5AC92AC76B00001C">
+						<name>\pxa0.66667,sm1.07917;{\fArial|b1|i0|c0|p34;\H0.91667x;\C250;\c2236704;DESCONOCIDO 4}</name>
+						<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+						<Point>
+							<coordinates>-100.953864,25.5448,0</coordinates>
+						</Point>
+					</Placemark>
+				</Folder>
+			</Folder>
+		</Folder>
+		<Folder id="5AC928E3FB000001">
+			<name>Monterrey</name>
+			<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+			<Folder id="5AC928E3FB000002">
+				<name>Monterrey</name>
+				<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+				<Placemark id="5AC928E3FB000003">
+					<name>kml_1</name>
+					<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-100.329322,25.690514,0 -100.329351,25.690525,0 -100.329547,25.690544,0 -100.32954,25.690594,0 -100.329645,25.69072,0 -100.329647,25.690723,0 -100.32965,25.690726,0 -100.329652,25.690729,0 -100.329654,25.690733,0 -100.329656,25.690736,0 -100.329658,25.69074,0 -100.32966,25.690743,0 -100.329662,25.690747,0 -100.329663,25.690751,0 -100.329665,25.69075399999999,0 -100.329666,25.690758,0 -100.329667,25.690762,0 -100.329668,25.690766,0 -100.329669,25.69077,0 -100.329669,25.690774,0 -100.32967,25.69077800000001,0 -100.32967,25.690781,0 -100.329671,25.690785,0 -100.329671,25.690789,0 -100.329671,25.690793,0 -100.32967,25.690797,0 -100.32967,25.690801,0 -100.32967,25.690805,0 -100.329799,25.689965,0 -100.329613,25.69013500000001,0 -100.328809,25.690051,0 -100.328772,25.690456,0 -100.328908,25.69047,0 -100.328909,25.690468,0 -100.329322,25.690514,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark id="5AC928E3FB000004">
+					<name>kml_2</name>
+					<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-100.328333,25.691777,0 -100.328432,25.690982,0 -100.327995,25.690934,0 -100.327893,25.69173199999999,0 -100.328333,25.691777,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark id="5AC928E3FB000005">
+					<name>kml_3</name>
+					<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-100.328039,25.694019,0 -100.329125,25.694141,0 -100.329357,25.692989,0 -100.329366,25.692962,0 -100.328994,25.69292,0 -100.329185,25.691688,0 -100.329137,25.691684,0 -100.328914,25.69166,0 -100.328985,25.691058,0 -100.328832,25.691041,0 -100.328908,25.69047,0 -100.328506,25.690428,0 -100.328435,25.690971,0 -100.328432,25.690982,0 -100.328333,25.691777,0 -100.328204,25.692808,0 -100.328039,25.694019,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark id="5AC928E3FB000006">
+					<name>DESCONOCIDO 1
+SUP= 3,940.760 M2</name>
+					<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+					<Point>
+						<coordinates>-100.328291,25.690936,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="5AC928E3FB000007">
+					<name>DESCONOCIDO 3
+SUP= 4,735.484 M2</name>
+					<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+					<Point>
+						<coordinates>-100.329349,25.690026,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="5AC928E3FB000008">
+					<name>DESCONOCIDO 2
+SUP= 32,703.419 M2</name>
+					<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+					<Point>
+						<coordinates>-100.328856,25.691982,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+		</Folder>
+		<Folder id="5AC92B3DCA000001">
+			<name>Ramos Arizpe</name>
+			<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+			<Folder id="5AC92B3DCA000002">
+				<name>Ramos Arizpe</name>
+				<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+				<Placemark id="5AC92B3DCA000003">
+					<name>kml_1</name>
+					<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-100.952572,25.544364,0 -100.952373,25.544273,0 -100.952319,25.544503,0 -100.95228,25.544682,0 -100.952296,25.544658,0 -100.952314,25.544629,0 -100.952364,25.54458,0 -100.952439,25.544507,0 -100.952455,25.544488,0 -100.952508,25.544427,0 -100.952572,25.544364,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark id="5AC92B3DCA000004">
+					<name>kml_2</name>
+					<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-100.952257,25.542915,0 -100.952206,25.542904,0 -100.952081,25.543161,0 -100.952193,25.543192,0 -100.952211,25.543114,0 -100.952228,25.543033,0 -100.952257,25.542915,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark id="5AC92B3DCA000005">
+					<name>kml_3</name>
+					<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-100.951931,25.54321,0 -100.951719,25.543156,0 -100.951694,25.543237,0 -100.951908,25.543291,0 -100.951931,25.54321,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark id="5AC92B3DCA000006">
+					<name>kml_4</name>
+					<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-100.951884,25.543372,0 -100.951669,25.54331699999999,0 -100.951644,25.543398,0 -100.95186,25.543452,0 -100.951884,25.543372,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark id="5AC92B3DCA000007">
+					<name>kml_5</name>
+					<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-100.951908,25.543291,0 -100.951694,25.543237,0 -100.951669,25.54331699999999,0 -100.951884,25.543372,0 -100.951908,25.543291,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark id="5AC92B3DCA000008">
+					<name>kml_6</name>
+					<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-100.952097,25.543428,0 -100.951883,25.543374,0 -100.95186,25.543452,0 -100.952074,25.543509,0 -100.952097,25.543428,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark id="5AC92B3DCB000009">
+					<name>kml_7</name>
+					<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-100.952144,25.543262,0 -100.952036,25.543237,0 -100.95199,25.543401,0 -100.952097,25.543428,0 -100.952144,25.543262,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark id="5AC92B3DCB00000A">
+					<name>kml_8</name>
+					<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-100.952116,25.543524,0 -100.952119,25.543511,0 -100.952129,25.543466,0 -100.952139,25.543422,0 -100.952149,25.543378,0 -100.95215,25.543373,0 -100.952161,25.543332,0 -100.95217,25.54329,0 -100.952174,25.54327,0 -100.952143,25.543264,0 -100.952097,25.543428,0 -100.952074,25.543509,0 -100.952073,25.543513,0 -100.952116,25.543524,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark id="5AC92B3DCB00000B">
+					<name>kml_9</name>
+					<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-100.952459,25.543808,0 -100.952448,25.543854,0 -100.95248,25.543884,0 -100.952777,25.544166,0 -100.952785,25.54416,0 -100.952813,25.544134,0 -100.952825,25.54412,0 -100.952851,25.544092,0 -100.952866,25.544075,0 -100.952872,25.544068,0 -100.952891,25.544046,0 -100.952948,25.543965,0 -100.95295,25.543919,0 -100.95295,25.543903,0 -100.952944,25.543884,0 -100.952938,25.543852,0 -100.952916,25.543775,0 -100.952886,25.543706,0 -100.952833,25.543586,0 -100.95256,25.543534,0 -100.952537,25.54353,0 -100.9525,25.543664,0 -100.952459,25.543808,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark id="5AC92B3DCB00000C">
+					<name>kml_10</name>
+					<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-100.95248,25.543884,0 -100.952373,25.544273,0 -100.952572,25.544364,0 -100.952777,25.544166,0 -100.95248,25.543884,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark id="5AC92B3DCB00000D">
+					<name>kml_11</name>
+					<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-100.95228,25.544682,0 -100.952319,25.544503,0 -100.952373,25.544273,0 -100.95248,25.543884,0 -100.952448,25.543854,0 -100.952345,25.544302,0 -100.952283,25.544577,0 -100.952261,25.544666,0 -100.952259,25.544678,0 -100.95228,25.544682,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark id="5AC92B3DCB00000E">
+					<name>kml_12</name>
+					<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-100.952666,25.544592,0 -100.9526,25.54465,0 -100.953797,25.546005,0 -100.953855,25.545951,0 -100.952666,25.544592,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark id="5AC92B3DCB00000F">
+					<name>kml_13</name>
+					<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-100.953797,25.546005,0 -100.9526,25.54465,0 -100.952546,25.54469599999999,0 -100.952432,25.545014,0 -100.953509,25.546231,0 -100.953797,25.546005,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark id="5AC92B3DCB000010">
+					<name>\pxa0.66667,sm1.07917;{\fArial|b1|i0|c0|p34;\H0.91667x;\C250;\c2236704;DESCONOCIDO 5}</name>
+					<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+					<Point>
+						<coordinates>-100.952233,25.544075,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="5AC92B3DCB000011">
+					<name>{\fArial|b1|i0|c0|p34;\H0.91667x;\C250;\c2236704;ANGELINA GUTIERREZ ZERTUCHE}</name>
+					<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+					<Point>
+						<coordinates>-100.95169,25.54369,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="5AC92B3DCB000012">
+					<name>{\fArial|b1|i0|c0|p34;\H0.91667x;\C250;\c2236704;DORAELIA GUTIERREZ PADILLA}</name>
+					<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+					<Point>
+						<coordinates>-100.951615,25.54322000000001,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="5AC92B3DCB000013">
+					<name>{\fArial|b1|i0|c0|p34;\H0.91667x;\C250;\c2236704;OLGA GUTIERREZ SAUCEDO}</name>
+					<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+					<Point>
+						<coordinates>-100.951912,25.542623,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="5AC92B3DCB000014">
+					<name>\pxa0.66667,sm1.07917;{\fArial|b1|i0|c0|p34;\H0.91667x;\C250;\c2236704;BLAS GARCIA GUTIERREZ}</name>
+					<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+					<Point>
+						<coordinates>-100.952546,25.542983,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="5AC92B3DCB000015">
+					<name>{\fArial|b1|i0|c0|p34;\H0.91667x;\C250;\c2236704;TOMAS GUTIERREZ PADILLA}</name>
+					<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+					<Point>
+						<coordinates>-100.95207,25.543591,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="5AC92B3DCB000016">
+					<name>\pxa0.66667,sm1.07917;{\fArial|b1|i0|c0|p34;\H0.91667x;\C250;\c2236704;DESCONOCIDO 2}</name>
+					<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+					<Point>
+						<coordinates>-100.952351,25.543545,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="5AC92B3DCB000017">
+					<name>\pxa0.66667,sm1.07917;{\fArial|b1|i0|c0|p34;\H0.91667x;\C250;\c2236704;DESCONOCIDO 1}</name>
+					<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+					<Point>
+						<coordinates>-100.952221,25.542463,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="5AC92B3DCB000018">
+					<name>ROSENDO FLORES 1</name>
+					<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+					<Point>
+						<coordinates>-100.952155,25.544494,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="5AC92B3DCB000019">
+					<name>\pxa0.66667,sm1.07917;{\fArial|b1|i0|c0|p34;\H0.91667x;\C250;\c2236704;DESCONOCIDO 3}</name>
+					<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+					<Point>
+						<coordinates>-100.953062,25.544255,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="5AC92B3DCB00001A">
+					<name>\pxa0.66667,sm1.07917;{\fArial|b1|i0|c0|p34;\H0.91667x;\C250;\c2236704;PARQUE}</name>
+					<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+					<Point>
+						<coordinates>-100.953301,25.543612,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="5AC92B3DCB00001B">
+					<name>ROSENDO FLORES</name>
+					<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+					<Point>
+						<coordinates>-100.952855,25.546161,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="5AC92B3DCB00001C">
+					<name>\pxa0.66667,sm1.07917;{\fArial|b1|i0|c0|p34;\H0.91667x;\C250;\c2236704;DESCONOCIDO 4}</name>
+					<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+					<Point>
+						<coordinates>-100.953864,25.5448,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+		</Folder>
+		<Folder id="5AC92B7F6C000001">
+			<name>Saltillo</name>
+			<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+			<Folder id="5AC92B7F6C000002">
+				<name>Saltillo</name>
+				<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+				<Placemark id="5AC92B7F6C000003">
+					<name>kml_1</name>
+					<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-101.013663,25.420811,0 -101.013714,25.420743,0 -101.014764,25.419161,0 -101.014821,25.419065,0 -101.014895,25.41895,0 -101.014923,25.418946,0 -101.014971,25.418936,0 -101.015012,25.418929,0 -101.015071,25.418925,0 -101.015077,25.418942,0 -101.015301,25.418931,0 -101.015296,25.418868,0 -101.015294,25.418825,0 -101.015292,25.418782,0 -101.015291,25.418739,0 -101.015275,25.418473,0 -101.015275,25.418427,0 -101.015275,25.418385,0 -101.015274,25.41827,0 -101.015275,25.418255,0 -101.015277,25.418235,0 -101.015258,25.418237,0 -101.015142,25.418426,0 -101.014996,25.418694,0 -101.014914,25.41885,0 -101.014681,25.419203,0 -101.014126,25.420044,0 -101.013697,25.420755,0 -101.013663,25.420811,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark id="5AC92B7F6C000004">
+					<name>kml_2</name>
+					<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-101.015507,25.422339,0 -101.015488,25.422031,0 -101.015457,25.421308,0 -101.015454,25.421268,0 -101.015451,25.421227,0 -101.015447,25.421184,0 -101.015443,25.421139,0 -101.015439,25.421094,0 -101.015435,25.421047,0 -101.015411,25.420685,0 -101.015409,25.42064,0 -101.015407,25.420597,0 -101.015405,25.420553,0 -101.015403,25.420509,0 -101.015401,25.420466,0 -101.015398,25.420422,0 -101.015396,25.420378,0 -101.015394,25.420335,0 -101.015392,25.420291,0 -101.01539,25.420247,0 -101.015387,25.420204,0 -101.015385,25.420162,0 -101.015382,25.42012,0 -101.015379,25.420077,0 -101.015376,25.420034,0 -101.015373,25.41999,0 -101.01537,25.419947,0 -101.015367,25.419904,0 -101.01536,25.419821,0 -101.015357,25.419777,0 -101.015354,25.419734,0 -101.015351,25.419691,0 -101.015348,25.419648,0 -101.015345,25.419605,0 -101.015342,25.419562,0 -101.015338,25.419517,0 -101.015335,25.419472,0 -101.015332,25.419427,0 -101.015328,25.41938,0 -101.015319,25.41918,0 -101.015315,25.419136,0 -101.015312,25.41909100000001,0 -101.015309,25.419046,0 -101.015301,25.418931,0 -101.015077,25.418942,0 -101.015071,25.418925,0 -101.015012,25.418929,0 -101.014971,25.418936,0 -101.014923,25.418946,0 -101.014895,25.41895,0 -101.014821,25.419065,0 -101.014764,25.419161,0 -101.013714,25.420743,0 -101.013663,25.420811,0 -101.013612,25.420879,0 -101.013463,25.421115,0 -101.01345,25.421143,0 -101.01339,25.421232,0 -101.013373,25.421258,0 -101.013437,25.421289,0 -101.013545,25.421342,0 -101.013783,25.421328,0 -101.013932,25.421323,0 -101.01405,25.42131699999999,0 -101.014228,25.421308,0 -101.014377,25.4213,0 -101.01453,25.421292,0 -101.014615,25.421287,0 -101.014765,25.42128,0 -101.014884,25.421273,0 -101.014973,25.421269,0 -101.014982,25.421287,0 -101.01499,25.42142,0 -101.014999,25.42158,0 -101.015008,25.421717,0 -101.015017,25.421801,0 -101.015022,25.421941,0 -101.015031,25.422074,0 -101.015034,25.422113,0 -101.015201,25.422107,0 -101.015347,25.421956,0 -101.015424,25.422344,0 -101.015507,25.422339,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark id="5AC92B7F6C000005">
+					<name>kml_3</name>
+					<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-101.015424,25.422344,0 -101.015347,25.421956,0 -101.015201,25.422107,0 -101.015196,25.422131,0 -101.015206,25.422363,0 -101.015424,25.422344,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark id="5AC92B7F6C000006">
+					<name>\pxa0.66667,sm1.07917;{\fArial|b1|i0|c0|p34;\H0.91667x;\C250;\c2236704;KANSAS CITY SOUTHERN}</name>
+					<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+					<Point>
+						<coordinates>-101.014881,25.419165,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="5AC92B7F6C000007">
+					<name>DESCONOCIDO</name>
+					<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+					<Point>
+						<coordinates>-101.015178,25.418313,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="5AC92B7F6C000008">
+					<name>DESCONOCIDO</name>
+					<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+					<Point>
+						<coordinates>-101.015337,25.422239,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+		</Folder>
+	</Folder>
+	<Folder id="0B26673EEB3EA4AAB684">
+		<name>Estaciones y Edificios Adicionales TAP</name>
+		<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+		<Folder id="5B828A6CED000001">
+			<name>Empalme El Rey</name>
+			<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+			<Placemark id="5B828A6CED000003">
+				<name>kml_1</name>
+				<styleUrl>#__managed_style_153A20C5483ECE12EEC4</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-98.89997540908551,19.8626920048318,0 -98.9000182952479,19.8627264563635,0 -98.90071199999979,19.8630380000144,0 -98.9008259999998,19.8630840000144,0 -98.9010029999998,19.8627460000144,0 -98.90194799999981,19.8611910000144,0 -98.90191999999981,19.8610350000144,0 -98.9019689999998,19.8608510000144,0 -98.9016227575123,19.8606452228964,0 -98.90149519449538,19.8607873210698,0 -98.90160751599052,19.8608727672374,0 -98.90143660993139,19.8610601960575,0 -98.90143848112599,19.8610616976769,0 -98.89997540908551,19.8626920048318,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark id="5B828B6BB4000003">
+				<name>kml_2</name>
+				<styleUrl>#__managed_style_153A20C5483ECE12EEC4</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-98.9001729999998,19.8610250000144,0 -98.9004945174761,19.8612862331754,0 -98.90106850098148,19.8606763395379,0 -98.90067699999982,19.8604700000144,0 -98.9001729999998,19.8610250000144,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+		</Folder>
+		<Folder id="5B829683FF000001">
+			<name>Platah</name>
+			<styleUrl>#__managed_style_0E6035FA363ECE12EEC3</styleUrl>
+			<Placemark id="5B82A664AC000003">
+				<name>kml_1</name>
+				<styleUrl>#__managed_style_153A20C5483ECE12EEC4</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-98.8525143246768,19.915478028596,0 -98.85321421731901,19.9160457903968,0 -98.8553131474624,19.913748283606,0 -98.85462668434231,19.9131262814248,0 -98.8525143246768,19.915478028596,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>
