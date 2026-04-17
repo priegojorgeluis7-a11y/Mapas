@@ -113,7 +113,12 @@
         aria-label="Cambiar entre mapa claro y satelital"
         data-tip="Cambiar mapa base"
       >
-        <span class="tool-icon">🛰</span>
+        <span class="satellite-icon" aria-hidden="true">
+          <span class="satellite-panel left"></span>
+          <span class="satellite-body"></span>
+          <span class="satellite-panel right"></span>
+          <span class="satellite-wave"></span>
+        </span>
       </button>
 
       <button
@@ -125,9 +130,7 @@
         data-tip="Regresar al norte"
       >
         <span class="compass-mini" aria-hidden="true">
-          <span class="compass-mini-ring"></span>
           <span class="compass-mini-needle" id="compassNeedle"></span>
-          <span class="compass-mini-n">N</span>
         </span>
       </button>
     </div>
