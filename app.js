@@ -366,19 +366,15 @@ function focusLayer(layer) {
   const center = layerToLatLng(layer);
 
   if (center) {
-    map.panTo(center, { animate: true, duration: 0.5 });
-    map.setZoom(Math.max(map.getZoom(), 14));
+    map.setView(center, Math.max(map.getZoom(), 14), {
+      animate: true,
+      duration: 0.5,
+    });
   }
 
+  // Opening popups with autoPan disabled keeps the selected feature centered.
   if (layer.openPopup) {
     layer.openPopup();
-  }
-
-  if (layer.getBounds) {
-    const bounds = layer.getBounds();
-    if (bounds.isValid()) {
-      map.fitBounds(bounds.pad(0.4));
-    }
   }
 }
 
@@ -434,7 +430,7 @@ function loadKml() {
     style: styleByGeometry,
     pointToLayer: createFeatureLayer,
     onEachFeature: (feature, layer) => {
-      layer.bindPopup(popupContent(feature));
+      layer.bindPopup(popupContent(feature), { autoPan: false });
     },
   }));
 
