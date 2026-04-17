@@ -28,31 +28,6 @@
         <ul id="searchResults" class="search-results"></ul>
       </div>
 
-      <div class="sidebar-section">
-        <p class="section-title">Mapa base</p>
-        <div class="base-toggle">
-          <button type="button" id="baseStreet" class="is-active">Claro</button>
-          <button type="button" id="baseSatellite">Satelital</button>
-        </div>
-      </div>
-
-      <div class="sidebar-section">
-        <p class="section-title">Brujula y giro</p>
-        <div class="compass-wrap">
-          <div class="compass" id="compass" aria-label="Brujula">
-            <div class="compass-ring"></div>
-            <div class="compass-needle" id="compassNeedle"></div>
-            <div class="compass-n">N</div>
-          </div>
-          <div class="rotation-controls">
-            <button type="button" id="rotateLeft">Girar -15</button>
-            <button type="button" id="rotateRight">Girar +15</button>
-            <button type="button" id="resetNorth">Norte</button>
-            <button type="button" id="resetDefault">Default</button>
-          </div>
-        </div>
-      </div>
-
       <div class="sidebar-header">
         <p>Capas del proyecto</p>
       </div>
@@ -128,6 +103,32 @@
     </button>
 
     <main id="map"></main>
+
+    <div class="map-tools" aria-label="Herramientas del mapa">
+      <button type="button" id="baseToggle" class="tool-btn" title="Cambiar mapa satelital" aria-label="Cambiar mapa satelital">
+        <span class="tool-icon">🛰</span>
+      </button>
+
+      <button type="button" id="rotateLeft" class="tool-btn" title="Girar -15" aria-label="Girar -15 grados">
+        <span class="tool-icon">↺</span>
+      </button>
+
+      <button type="button" id="rotateRight" class="tool-btn" title="Girar +15" aria-label="Girar +15 grados">
+        <span class="tool-icon">↻</span>
+      </button>
+
+      <button type="button" id="resetDefault" class="tool-btn" title="Volver a vista default" aria-label="Volver a vista default">
+        <span class="tool-icon">◎</span>
+      </button>
+
+      <button type="button" id="resetNorth" class="tool-btn compass-btn" title="Regresar al norte" aria-label="Regresar al norte">
+        <span class="compass-mini" aria-hidden="true">
+          <span class="compass-mini-ring"></span>
+          <span class="compass-mini-needle" id="compassNeedle"></span>
+          <span class="compass-mini-n">N</span>
+        </span>
+      </button>
+    </div>
 
     <script
       src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"

@@ -121,6 +121,9 @@ function rotateBy(delta) {
 
 function updateCompass() {
   const needle = document.getElementById("compassNeedle");
+  if (!needle) {
+    return;
+  }
   needle.style.transform = `translateX(-50%) rotate(${getBearing()}deg)`;
 }
 
@@ -143,10 +146,10 @@ function setBaseMap(baseName) {
     }
   }
 
-  const streetButton = document.getElementById("baseStreet");
-  const satelliteButton = document.getElementById("baseSatellite");
-  streetButton.classList.toggle("is-active", activeBaseMap === "street");
-  satelliteButton.classList.toggle("is-active", activeBaseMap === "satellite");
+  const baseToggleButton = document.getElementById("baseToggle");
+  if (baseToggleButton) {
+    baseToggleButton.classList.toggle("is-active", activeBaseMap === "satellite");
+  }
 
   updateUrlState();
 }
@@ -335,12 +338,9 @@ function wireToggles() {
 }
 
 function wireMapControls() {
-  document.getElementById("baseStreet").addEventListener("click", () => {
-    setBaseMap("street");
-  });
-
-  document.getElementById("baseSatellite").addEventListener("click", () => {
-    setBaseMap("satellite");
+  document.getElementById("baseToggle").addEventListener("click", () => {
+    const next = activeBaseMap === "street" ? "satellite" : "street";
+    setBaseMap(next);
   });
 
   document.getElementById("rotateLeft").addEventListener("click", () => {

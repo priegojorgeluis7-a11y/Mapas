@@ -125,34 +125,6 @@ body {
   cursor: pointer;
 }
 
-.base-toggle,
-.rotation-controls {
-  display: grid;
-  gap: 8px;
-}
-
-.base-toggle {
-  grid-template-columns: 1fr 1fr;
-}
-
-.base-toggle button,
-.rotation-controls button {
-  border-radius: 10px;
-  border: 1px solid #c8d1ce;
-  font-size: 0.83rem;
-  background: #ffffff;
-  color: var(--accent-main);
-  font-weight: 600;
-  padding: 8px 10px;
-  cursor: pointer;
-}
-
-.base-toggle button.is-active,
-.rotation-controls button.is-active {
-  background: var(--accent-main);
-  border-color: var(--accent-main);
-  color: #ffffff;
-}
 
 .search-wrap button:hover,
 .bulk-actions button:hover {
@@ -190,61 +162,97 @@ body {
   margin-bottom: 10px;
 }
 
-.compass-wrap {
-  display: grid;
-  grid-template-columns: 92px 1fr;
-  gap: 10px;
-  align-items: center;
-}
-
-.compass {
-  position: relative;
-  width: 86px;
-  height: 86px;
-  border-radius: 50%;
-  border: 1px solid #cdd6d3;
-  background: radial-gradient(circle at 50% 40%, #ffffff 0%, #f1f5f3 65%, #e6edeb 100%);
-}
-
-.compass-ring {
+.map-tools {
   position: absolute;
-  inset: 8px;
-  border: 1px dashed #afbab7;
-  border-radius: 50%;
+  right: 16px;
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 1150;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
 }
 
-.compass-needle {
+.tool-btn {
+  width: 58px;
+  height: 58px;
+  border-radius: 50%;
+  border: 1px solid #d5ddda;
+  background: #f8f9f8;
+  box-shadow: 0 8px 20px rgba(40, 48, 47, 0.16);
+  color: #243735;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: transform 160ms ease, border-color 160ms ease, background-color 160ms ease;
+}
+
+.tool-btn:hover {
+  transform: scale(1.04);
+  border-color: #becac6;
+  background: #ffffff;
+}
+
+.tool-btn.is-active {
+  border-color: var(--accent-main);
+  box-shadow: 0 8px 20px rgba(122, 31, 61, 0.25);
+}
+
+.tool-icon {
+  font-size: 1.35rem;
+  line-height: 1;
+}
+
+.compass-btn {
+  padding: 0;
+}
+
+.compass-mini {
+  position: relative;
+  width: 45px;
+  height: 45px;
+  display: block;
+}
+
+.compass-mini-ring {
+  position: absolute;
+  inset: 0;
+  border-radius: 50%;
+  border: 1px solid #c7d1ce;
+}
+
+.compass-mini-needle {
   position: absolute;
   left: 50%;
-  top: 12px;
+  top: 6px;
   width: 2px;
-  height: 30px;
-  background: var(--accent-main);
+  height: 20px;
+  background: #d63f3f;
   transform: translateX(-50%) rotate(0deg);
-  transform-origin: center 31px;
-  border-radius: 99px;
+  transform-origin: center 16px;
   transition: transform 220ms ease;
 }
 
-.compass-needle::after {
+.compass-mini-needle::after {
   content: "";
   position: absolute;
   left: 50%;
   bottom: -7px;
   transform: translateX(-50%);
-  width: 10px;
-  height: 10px;
+  width: 8px;
+  height: 8px;
   border-radius: 50%;
-  background: var(--accent-main);
+  background: #212c44;
 }
 
-.compass-n {
+.compass-mini-n {
   position: absolute;
-  top: 2px;
+  top: -2px;
   left: 50%;
   transform: translateX(-50%);
-  font-size: 0.75rem;
-  color: #4a5a58;
+  font-size: 0.68rem;
+  color: #616f6e;
   font-weight: 700;
 }
 
@@ -520,5 +528,22 @@ body {
 
   .search-results {
     max-height: 110px;
+  }
+
+  .map-tools {
+    right: 10px;
+    top: auto;
+    bottom: 16px;
+    transform: none;
+    gap: 8px;
+  }
+
+  .tool-btn {
+    width: 50px;
+    height: 50px;
+  }
+
+  .tool-icon {
+    font-size: 1.15rem;
   }
 }
