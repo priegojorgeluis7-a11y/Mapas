@@ -124,7 +124,7 @@ function updateCompass() {
   if (!needle) {
     return;
   }
-  needle.style.transform = `translateX(-50%) rotate(${getBearing()}deg)`;
+  needle.style.transform = `rotate(${getBearing()}deg)`;
 }
 
 function setBaseMap(baseName) {

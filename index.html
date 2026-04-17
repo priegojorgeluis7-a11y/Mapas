@@ -92,10 +92,6 @@
         <p id="pointCount">Puntos: 0</p>
         <p id="polygonCount">Poligonos: 0</p>
       </div>
-
-      <div class="publish-hint">
-        <p>Listo para GitHub Pages con archivos estaticos.</p>
-      </div>
     </aside>
 
     <button class="mobile-toggle" id="mobileToggle" aria-label="Mostrar u ocultar panel">
@@ -113,12 +109,16 @@
         aria-label="Cambiar entre mapa claro y satelital"
         data-tip="Cambiar mapa base"
       >
-        <span class="satellite-icon" aria-hidden="true">
-          <span class="satellite-panel left"></span>
-          <span class="satellite-body"></span>
-          <span class="satellite-panel right"></span>
-          <span class="satellite-wave"></span>
-        </span>
+        <svg class="icon-svg" viewBox="0 0 24 24" aria-hidden="true">
+          <g fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M8 10l-3 3m11-11l3-3m-9 7l7-7m-9 9l-2 2m9-9l2-2" />
+            <rect x="9" y="9" width="6" height="6" rx="1" transform="rotate(45 12 12)" />
+            <rect x="2.7" y="11" width="4" height="2.7" rx="0.6" />
+            <rect x="17.3" y="11" width="4" height="2.7" rx="0.6" />
+            <path d="M13.8 14.4c1.3.3 2.2 1 2.9 2" />
+            <path d="M13.4 16.2c.9.3 1.5.8 2 1.4" />
+          </g>
+        </svg>
       </button>
 
       <button
@@ -130,7 +130,12 @@
         data-tip="Regresar al norte"
       >
         <span class="compass-mini" aria-hidden="true">
-          <span class="compass-mini-needle" id="compassNeedle"></span>
+          <svg class="icon-svg north-svg" viewBox="0 0 24 24" aria-hidden="true">
+            <g fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+              <path id="compassNeedle" d="M12 4l3.6 7.5L12 10l-3.6 1.5L12 4z" fill="currentColor" stroke="none" />
+              <path d="M12 10v10" />
+            </g>
+          </svg>
         </span>
       </button>
     </div>

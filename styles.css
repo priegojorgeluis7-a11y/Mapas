@@ -74,8 +74,7 @@ body {
 .bulk-actions,
 .layer-groups,
 .legend,
-.stats,
-.publish-hint {
+.stats {
   padding-left: 14px;
   padding-right: 14px;
 }
@@ -221,54 +220,10 @@ body {
   box-shadow: 0 8px 20px rgba(122, 31, 61, 0.25);
 }
 
-.satellite-icon {
-  position: relative;
-  width: 32px;
-  height: 32px;
-  display: block;
-}
-
-.satellite-body {
-  position: absolute;
-  left: 50%;
-  top: 50%;
-  width: 10px;
-  height: 10px;
-  border: 2px solid #243735;
-  border-radius: 2px;
-  transform: translate(-50%, -50%) rotate(45deg);
-  background: #f8f9f8;
-}
-
-.satellite-panel {
-  position: absolute;
-  top: 50%;
-  width: 11px;
-  height: 7px;
-  border: 2px solid #243735;
-  border-radius: 2px;
-  transform: translateY(-50%);
-  background: #ffffff;
-}
-
-.satellite-panel.left {
-  left: 0;
-}
-
-.satellite-panel.right {
-  right: 0;
-}
-
-.satellite-wave {
-  position: absolute;
-  left: 55%;
-  bottom: 2px;
-  width: 10px;
-  height: 10px;
-  border-right: 2px solid #0f65b8;
-  border-bottom: 2px solid #0f65b8;
-  border-radius: 0 0 10px 0;
-  transform: rotate(20deg);
+.icon-svg {
+  width: 30px;
+  height: 30px;
+  color: #243735;
 }
 
 .compass-btn {
@@ -277,34 +232,18 @@ body {
 
 .compass-mini {
   position: relative;
-  width: 26px;
-  height: 26px;
+  width: 30px;
+  height: 30px;
   display: block;
 }
 
-.compass-mini-needle {
-  position: absolute;
-  left: 50%;
-  top: 0;
-  width: 0;
-  height: 0;
-  border-left: 6px solid transparent;
-  border-right: 6px solid transparent;
-  border-bottom: 16px solid #1f2e2d;
-  transform: translateX(-50%) rotate(0deg);
-  transform-origin: center 18px;
-  transition: transform 220ms ease;
+.north-svg {
+  color: #1f2e2d;
 }
 
-.compass-mini-needle::after {
-  content: "";
-  position: absolute;
-  left: 50%;
-  top: 15px;
-  transform: translateX(-50%);
-  width: 2px;
-  height: 8px;
-  background: #d63f3f;
+#compassNeedle {
+  transform-origin: 12px 12px;
+  transition: transform 220ms ease;
 }
 
 .layer-groups details {
@@ -508,14 +447,6 @@ body {
   margin: 5px 0;
 }
 
-.publish-hint {
-  border-top: 1px dashed #cad5d2;
-  padding-top: 8px;
-  padding-bottom: 14px;
-  font-size: 0.78rem;
-  color: #607270;
-}
-
 .popup-wrap {
   min-width: 180px;
   font-family: "Avenir Next", "Segoe UI", sans-serif;
@@ -593,12 +524,8 @@ body {
     height: 50px;
   }
 
-  .tool-icon {
-    font-size: 1.15rem;
-  }
-
-  .satellite-icon {
-    width: 28px;
-    height: 28px;
+  .icon-svg {
+    width: 26px;
+    height: 26px;
   }
 }
