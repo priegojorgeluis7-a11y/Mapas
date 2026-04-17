@@ -125,6 +125,35 @@ body {
   cursor: pointer;
 }
 
+.base-toggle,
+.rotation-controls {
+  display: grid;
+  gap: 8px;
+}
+
+.base-toggle {
+  grid-template-columns: 1fr 1fr;
+}
+
+.base-toggle button,
+.rotation-controls button {
+  border-radius: 10px;
+  border: 1px solid #c8d1ce;
+  font-size: 0.83rem;
+  background: #ffffff;
+  color: var(--accent-main);
+  font-weight: 600;
+  padding: 8px 10px;
+  cursor: pointer;
+}
+
+.base-toggle button.is-active,
+.rotation-controls button.is-active {
+  background: var(--accent-main);
+  border-color: var(--accent-main);
+  color: #ffffff;
+}
+
 .search-wrap button:hover,
 .bulk-actions button:hover {
   background: var(--accent-soft);
@@ -159,6 +188,64 @@ body {
   grid-template-columns: 1fr 1fr;
   gap: 8px;
   margin-bottom: 10px;
+}
+
+.compass-wrap {
+  display: grid;
+  grid-template-columns: 92px 1fr;
+  gap: 10px;
+  align-items: center;
+}
+
+.compass {
+  position: relative;
+  width: 86px;
+  height: 86px;
+  border-radius: 50%;
+  border: 1px solid #cdd6d3;
+  background: radial-gradient(circle at 50% 40%, #ffffff 0%, #f1f5f3 65%, #e6edeb 100%);
+}
+
+.compass-ring {
+  position: absolute;
+  inset: 8px;
+  border: 1px dashed #afbab7;
+  border-radius: 50%;
+}
+
+.compass-needle {
+  position: absolute;
+  left: 50%;
+  top: 12px;
+  width: 2px;
+  height: 30px;
+  background: var(--accent-main);
+  transform: translateX(-50%) rotate(0deg);
+  transform-origin: center 31px;
+  border-radius: 99px;
+  transition: transform 220ms ease;
+}
+
+.compass-needle::after {
+  content: "";
+  position: absolute;
+  left: 50%;
+  bottom: -7px;
+  transform: translateX(-50%);
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background: var(--accent-main);
+}
+
+.compass-n {
+  position: absolute;
+  top: 2px;
+  left: 50%;
+  transform: translateX(-50%);
+  font-size: 0.75rem;
+  color: #4a5a58;
+  font-weight: 700;
 }
 
 .layer-groups details {

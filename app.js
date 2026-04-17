@@ -1,15 +1,35 @@
 const map = L.map("map", {
   zoomControl: true,
+  rotate: true,
+  touchRotate: true,
+  bearing: 0,
 });
 
-const baseMap = L.tileLayer("https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png", {
+const streetMap = L.tileLayer("https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png", {
   subdomains: "abcd",
   maxZoom: 20,
   attribution:
     '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/">CARTO</a>',
 });
 
-baseMap.addTo(map);
+const satelliteMap = L.tileLayer(
+  "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}",
+  {
+    maxZoom: 20,
+    attribution: "Tiles &copy; Esri",
+  }
+);
+
+let activeBaseMap = "street";
+let fallbackBearing = 0;
+const defaultView = {
+  lat: 20.6,
+  lng: -99.9,
+  zoom: 8,
+  bearing: 0,
+};
+
+streetMap.addTo(map);
 map.setView([20.6, -99.9], 8);
 
 const lineLayer = L.layerGroup().addTo(map);
@@ -39,6 +59,8 @@ function updateUrlState() {
   params.set("line", map.hasLayer(lineLayer) ? "1" : "0");
   params.set("points", map.hasLayer(pointLayer) ? "1" : "0");
   params.set("poly", map.hasLayer(polygonLayer) ? "1" : "0");
+  params.set("base", activeBaseMap);
+  params.set("bearing", String(getBearing().toFixed(1)));
 
   const newUrl = `${window.location.pathname}?${params.toString()}`;
   history.replaceState(null, "", newUrl);
@@ -49,10 +71,90 @@ function applyUrlState() {
   const z = Number(params.get("z"));
   const lat = Number(params.get("lat"));
   const lng = Number(params.get("lng"));
+  const bearing = Number(params.get("bearing"));
+  const base = params.get("base");
 
   if (Number.isFinite(z) && Number.isFinite(lat) && Number.isFinite(lng)) {
     map.setView([lat, lng], z);
   }
+
+  if (base === "satellite") {
+    setBaseMap("satellite");
+  } else {
+    setBaseMap("street");
+  }
+
+  if (Number.isFinite(bearing)) {
+    setBearing(bearing);
+  }
+}
+
+function normalizeBearing(value) {
+  return ((value % 360) + 360) % 360;
+}
+
+function getBearing() {
+  if (typeof map.getBearing === "function") {
+    return normalizeBearing(map.getBearing());
+  }
+
+  return fallbackBearing;
+}
+
+function setBearing(nextBearing) {
+  const normalized = normalizeBearing(nextBearing);
+
+  if (typeof map.setBearing === "function") {
+    map.setBearing(normalized);
+  } else {
+    fallbackBearing = normalized;
+  }
+
+  fallbackBearing = normalized;
+  updateCompass();
+  updateUrlState();
+}
+
+function rotateBy(delta) {
+  setBearing(getBearing() + delta);
+}
+
+function updateCompass() {
+  const needle = document.getElementById("compassNeedle");
+  needle.style.transform = `translateX(-50%) rotate(${getBearing()}deg)`;
+}
+
+function setBaseMap(baseName) {
+  activeBaseMap = baseName === "satellite" ? "satellite" : "street";
+
+  if (activeBaseMap === "satellite") {
+    if (map.hasLayer(streetMap)) {
+      map.removeLayer(streetMap);
+    }
+    if (!map.hasLayer(satelliteMap)) {
+      satelliteMap.addTo(map);
+    }
+  } else {
+    if (map.hasLayer(satelliteMap)) {
+      map.removeLayer(satelliteMap);
+    }
+    if (!map.hasLayer(streetMap)) {
+      streetMap.addTo(map);
+    }
+  }
+
+  const streetButton = document.getElementById("baseStreet");
+  const satelliteButton = document.getElementById("baseSatellite");
+  streetButton.classList.toggle("is-active", activeBaseMap === "street");
+  satelliteButton.classList.toggle("is-active", activeBaseMap === "satellite");
+
+  updateUrlState();
+}
+
+function resetToDefault() {
+  setBearing(0);
+  setBaseMap("street");
+  map.setView([defaultView.lat, defaultView.lng], defaultView.zoom);
 }
 
 function cleanName(name) {
@@ -232,6 +334,34 @@ function wireToggles() {
   syncLegend();
 }
 
+function wireMapControls() {
+  document.getElementById("baseStreet").addEventListener("click", () => {
+    setBaseMap("street");
+  });
+
+  document.getElementById("baseSatellite").addEventListener("click", () => {
+    setBaseMap("satellite");
+  });
+
+  document.getElementById("rotateLeft").addEventListener("click", () => {
+    rotateBy(-15);
+  });
+
+  document.getElementById("rotateRight").addEventListener("click", () => {
+    rotateBy(15);
+  });
+
+  document.getElementById("resetNorth").addEventListener("click", () => {
+    setBearing(0);
+  });
+
+  document.getElementById("resetDefault").addEventListener("click", () => {
+    resetToDefault();
+  });
+
+  updateCompass();
+}
+
 function layerToLatLng(layer) {
   if (layer.getLatLng) {
     return layer.getLatLng();
@@ -337,12 +467,18 @@ function loadKml() {
 
     if (bounds.isValid()) {
       map.fitBounds(bounds.pad(0.08));
+      const center = bounds.getCenter();
+      defaultView.lat = center.lat;
+      defaultView.lng = center.lng;
+      defaultView.zoom = map.getZoom();
+      defaultView.bearing = 0;
     }
 
     applyUrlState();
 
     map.on("moveend", updateUrlState);
     map.on("zoomend", updateUrlState);
+    map.on("rotate", updateCompass);
     updateUrlState();
   });
 
@@ -352,4 +488,5 @@ function loadKml() {
 }
 
 wireMobilePanel();
+wireMapControls();
 loadKml();
